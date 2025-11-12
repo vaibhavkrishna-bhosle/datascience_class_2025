@@ -1,0 +1,511 @@
+student_id,name,email,phone,age,gender,course,department,semester,cgpa,attendance,city,state,admission_date,fees_paid,hostel
+STU20238485,Yug Sanghvi,  urvichauhan@example.net  ,+91-8923923126,17,Male,BCA,Information Technology,7,9.92,42.4,Panipat,TS,2022-07-01,1,Yes
+STU20206913,PATRICK PRASAD,krishhora@example.com,(+918179323023),25,Non-Binary,M.E,Chemical,6,13.97,43.5,Alappuzha,Kerala,2024-08-11,N, Yes 
+STU20237737,teerth mody,shethvinaya@example.org,(00975451052),21,Female,MCA,Chemical,5,5.76,51.3%,Raichur,Tamil Nadu,2020-12-08,Yes,YES
+STU20212477,TRIYA BIR,  kiberaksha@example.org  ,,19,Man,M.E,Electronics,6,7.1,87.1,Gulbarga,Rajasthan,2021-07-10,0,NO
+STU20221620,Chasmum Rana,,+91-+914287572158,18,Man,B.Tech,Electronics,5,,74.5,Ajmer,Delhi,2023-01-29,N,n
+STU20229728,Hardik Suri,  cmammen@example.net  ,(03773515850),23,O,B.E,Computer Science,6,5.06,65.2,Bally,RJ,2022-06-23,1,NO
+STU20243967,WILLIAM CHANA,  srinivasandalaja@example.org  ,7990772625,21,M,M.E,Electronics,5,8.63,73.5,Mumbai,Tamil Nadu,2021-06-18,0,YES
+STU20204073,ANJALI SENGUPTA,RAJESHRICHAND@EXAMPLE.ORG,05060685361,25,female,BCA,Chemical,8,8.13,85.6,Rajahmundry,DL,06/02/2021,0, Yes 
+STU20244726,DHRITI CHANA,  bosewriddhish@example.org  ,+919014870682,23,M,BCA,Electronics,7,,94.6,Mehsana,West Bengal,2025-03-30,False,Yes
+STU20244389,Hardik Bera,TARAAVI@EXAMPLE.ORG,(09524991187),27,Non-Binary,M.E,Mechanical,6,9.13,,Panihati,RJ,12/05/2023,no,N
+STU20219171,Jyoti Anand,daksheshkhanna@example.net,+91-0653331537,23,male,M.E,Electrical,6,-6.83,64.0%,Ghaziabad,Rajasthan,05-09-2023,yes, Yes 
+STU20223526,nirja bains,calebdatta@example.net,2280920242,23,other,MCA,Electronics,7,6.58,46.4,Khora ,MH,28-08-2025,0,NO
+STU20222965,Chakrika Dua,forumkarpe@example.com,3785477725,17,Female,MCA,Civil,3,10.65,72.0,Kolhapur,DL,06/07/2025,0,yes
+STU20202525,mohammed prabhu,  kotharinakul@example.com  ,+919500528127,23,O,MCA,Mechanical,6,7.27,69.3,Ratlam,Kerala,11/08/2025,1,yes
+STU20202800,VAMAKSHI MISTRY,ranabakhshi@example.net,8992172233,20,Man,M.E,Mechanical,7,,81.4%,Kalyan-Dombivli,Telangana,18 June 2024,no,Y
+STU20206977,yutika sibal,fmorar@example.org,+916873395004,28,male,B.Tech,Mechanical,6,8.74,50.5,Kavali,TN,12/11/2024,N,no
+STU20227704,Yahvi Sampath,CHATURA15@EXAMPLE.COM,,-26,female,M.Tech,Mechanical,3,8.89,69.3,Amritsar,TN,2022-06-19,No,Y
+STU20202020,Caleb Garde,mason22@example.org,0644742123,23,Non-Binary,M.Tech,Electronics,5,6.3,58.9%,Nizamabad,Telangana,2020-12-18,False,N
+STU20205286,yashasvi bir,atwalteerth@example.net,+914280138759,27,F,B.Tech,Electrical,4,9.89,100.2,Gandhidham,WB,10/10/2021,TRUE,n
+STU20201977,Gautam Tripathi,  lshere@example.net  ,+91-0793597820,19,Female,BCA,Electrical,5,7.2,68.1,Kota,Gujarat,2023-10-14,0,No
+STU20213662,Udyati Sarin,ekantika31@example.com,+91-03799650752,19,F,B.Tech,Electronics,6,8.91,84.7,,Delhi,2023-11-18,0,Yes
+STU20201771,Ekavir Bhargava,ekanshbalay@example.com,+918347382997,-18,male,MCA,Electronics,7,7.98,63.1,Bhalswa Jahangir Pur,Kerala,28-04-2024,0,n
+STU20236869,Reva Hans,purohitishita@example.net,+914077848739,18,Other,M.E,Electronics,7,9.12,69.7%,Tinsukia,West Bengal,27/10/2023,N,N
+STU20249776,DHRUV DAVE,dattaaashi@example.net,+91-+918430894870,17,O,B.E,Electronics,5,5.47,100.4,Faridabad,West Bengal,2023-08-11,1,YES
+STU20214012,Jhalak Tank,anjali60@example.org,(03415148881),17,M,MCA,Electronics,5,9.7,82.0%,Ambattur,Karnataka,2021-09-12,1,y
+STU20243931,siddharth vig,PRASHADZINAL@EXAMPLE.COM,07596555535,25,other,BCA,Civil,2,-8.83,74.6,,Rajasthan,2021-05-07,FALSE,yes
+STU20244728,Ria Shroff,upkaar49@example.org,+911158693806,28,Man,BCA,Civil,3,7.62,83.3%,Jorhat,Telangana,2024-11-25,True,Yes
+STU20238007,Aahana Pillay,ishwargade@example.com,+919049663193,25,male,B.Tech,Computer Science,3,7.73,90.1,Barasat,KL,22/11/2021,1,N
+STU20207002,Darika Sabharwal,choprahemangini@example.org,03640270116,20,other,MCA,Computer Science,1,9.65,52.5,Tumkur,Rajasthan,2024-07-11,Y,No
+STU20232747,Onveer Nazareth,  balakrishnanfinn@example.org  ,9439690784,20,F,BCA,Mechanical,5,9.96,57.7,Karawal Nagar,Telangana,2022-12-11,no,yes
+STU20239210,HARSHIL SANKARAN,vtandon@example.net,,25,MALE,M.E,Mechanical,1,-8.31,90.9,Ghaziabad,KL,10-05-2025,True,YES
+STU20223147,Xiti Dora,aryan71@example.com,+91-01125457387,26,F,M.Tech,Electronics,3,9.16,86.3%,Fatehpur,Tamil Nadu,2021-09-10,N,Yes
+STU20225809,oeshi pillai,MAYAPUROHIT@EXAMPLE.NET,+910089317342,20,Other,BCA,Civil,1,5.57,60.8,Rewa,DL,05 July 2024,Y,YES
+STU20223973,pallavi trivedi,  andrew54@example.org  ,+915733221418,26,female,MCA,Chemical,8,14.85,68.2%,Naihati,Telangana,23-12-2021,no,n
+STU20204583,Ishita Thakkar,MANNCHARVI@EXAMPLE.NET,(+914766072832),25,F,B.E,Computer Science,8,13.3,40.9,Bongaigaon,Uttar Pradesh,16/05/2023,0,y
+STU20201749,jackson barman,jonathan74@example.com,+913805525782,21,female,M.E,Electrical,6,7.17,101.2,Bhilai,Tamil Nadu,27/01/2021,N,N
+STU20238391,Dhriti Basu,  xalakmand@example.net  ,06449485625,27,F,M.E,Mechanical,1,6.95,47.1,Saharanpur,Maharashtra,03/08/2025,Yes,Yes
+STU20206464,SAKSHAM YOHANNAN,anita21@example.net,9330833016,20,male,BCA,Electronics,2,9.15,73.3,Chittoor,Kerala,19/09/2021,Yes, Yes 
+STU20212245,OWEN PURI,lpau@example.net,(+918463865577),22,Non-Binary,BCA,Information Technology,7,9.84,59.6%,Orai,Gujarat,16 January 2022,False,no
+STU20249882,abeer rout,,0506413836,21,Woman,M.Tech,Electrical,3,8.97,70.5%,Allahabad,Karnataka,2022-01-27,1, Yes 
+STU20232752,PALLAVI PAU,mekhala36@example.net,+91-7258874495,19,Female,B.Tech,Civil,6,9.21,62.8,Durgapur,West Bengal,15 November 2021,No, No 
+STU20212642,Neelima Bath,vbajaj@example.com,+916085641118,20,O,M.E,Chemical,6,9.0,96.8,Baranagar,Maharashtra,01/02/2022,True,No
+STU20215853,Pratyush Dhar,jboase@example.net,,20,FEMALE,M.Tech,Mechanical,1,8.54,67.6,Anantapur,Maharashtra,09/09/2025,1,n
+STU20235557,KRITIKA BRAR,janaki93@example.net,(+910341316475),17,Man,MCA,Civil,6,6.39,52.9,Uluberia,West Bengal,2023-11-19,True,y
+STU20219787,Bhavya Bajwa,GARIMAOOMMEN@EXAMPLE.ORG,+918033968527,18,MALE,M.E,Electronics,6,9.91,87.3%,Amritsar,WB,16/01/2025,No, Yes 
+STU20203171,damyanti dass,KALPITBRAR@EXAMPLE.COM,1107603108,28,O,B.Tech,Chemical,3,5.52,,Nandyal,RJ,15 November 2021,False,yes
+STU20217730,Jhalak Sarkar,ysarraf@example.com,+917758416169,17,Woman,MCA,Civil,7,6.93,79.8,Bongaigaon,Tamil Nadu,12/05/2023,False,Y
+STU20245082,gabriel taneja,KAMYASETH@EXAMPLE.COM,+91-+918421503178,27,other,B.Tech,Civil,6,7.4,86.9%,Karawal Nagar,West Bengal,2025-02-11,No,n
+STU20241554,Chatura Gokhale,ekavir93@example.com,06766506180,18,O,B.Tech,Chemical,1,7.06,90.6,Bhimavaram,DL,01/04/2021,True, Yes 
+STU20205221,Amara Bera,zaid96@example.net,02757844683,23,MALE,BCA,Mechanical,4,5.76,113.8,Chandigarh,Tamil Nadu,2023-06-18,True, No 
+STU20244804,Yasti Prasad,CHANCHAL17@EXAMPLE.ORG,04544432830,25,O,MCA,Chemical,1,9.57,50.5,,Tamil Nadu,2022-01-19,True,N
+STU20228178,Hardik Nayak,lakshbarad@example.com,(02779010432),28,F,B.Tech,Computer Science,4,,58.6,Bhubaneswar,MH,25 April 2023,0,yes
+STU20229946,Laban Chad,OJASVISHAH@EXAMPLE.NET,6927868765,23,Man,M.E,Chemical,4,5.81,64.4,Gaya,Maharashtra,2024-06-22,False,y
+STU20213955,Ganga Chaudhry,shanneelima@example.net,+910918435797,25,female,BCA,Mechanical,3,7.67,76.0,Maheshtala,West Bengal,2020-11-20,FALSE,N
+STU20206468,Pratyush Sandal,CHARVIMANGAT@EXAMPLE.COM,(+914754102252),22,Non-Binary,MCA,Electronics,1,8.2,101.4,Amroha,GJ,2024-12-06,True,n
+STU20243544,Nidra Arora,wvala@example.org,(03337389877),18,Non-Binary,M.E,Mechanical,4,6.24,57.1%,Guwahati,Tamil Nadu,11-07-2023,yes,Y
+STU20207267,harini mammen,advaith83@example.org,+916783777014,17,FEMALE,M.Tech,Electronics,8,6.75,89.2,Machilipatnam,DL,06/12/2022,True,yes
+STU20238736,Ira Khosla,,+91-+918518888806,70,Woman,BCA,Electronics,7,5.95,76.0,Varanasi,Tamil Nadu,2024-02-25,True,No
+STU20231159,abeer patil,borahishita@example.org,1247395003,19,FEMALE,M.E,Electronics,6,8.93,58.0,Anantapuram,UP,2022-05-06,True,no
+STU20226992,WAZIR PALAN,OLIVER15@EXAMPLE.COM,+914331541006,23,female,B.Tech,Civil,1,7.85,51.7,Gurgaon,UP,11-04-2022,N,yes
+STU20212229,Ikshita Panchal,WARINDERCHAUHAN@EXAMPLE.ORG,03292127799,19,MALE,M.E,Civil,8,6.46,53.9,Buxar,Gujarat,12-08-2023,False,Yes
+STU20201409,Aryan Maharaj,,+918196001338,28,FEMALE,M.Tech,Electronics,3,8.68,80.6,Kishanganj,Uttar Pradesh,2022-07-21,1,No
+STU20212225,Yochana Dutta,dharraksha@example.org,+91-+911355690927,24,Woman,B.E,Information Technology,7,8.25,91.1%,Serampore,Uttar Pradesh,21/08/2024,N,N
+STU20231053,ARYA SHERE,faqidsavant@example.net,,28,other,B.E,Information Technology,3,7.54,46.4,Allahabad,Gujarat,06/04/2022,Yes,Y
+STU20217932,Idika Malhotra,robertsha@example.com,0426818184,73,MALE,M.E,Information Technology,8,7.91,72.1%,Bhiwandi,Telangana,24-03-2025,Yes,no
+STU20248973,NIDRA ACHARYA,bhavini36@example.net,5777387214,19,MALE,B.E,Electronics,1,7.9,72.5,Tiruchirappalli,WB,10/11/2022,Yes,YES
+STU20216820,Gaurangi Wali,minhaspooja@example.com,9893195085,20,O,B.E,Civil,6,6.86,95.1,Bhubaneswar,Rajasthan,13-02-2024,1,no
+STU20212858,CHARVI DARA,,(7117980893),24,M,MCA,Chemical,3,7.49,83.0,Jalna,UP,06/07/2024,No, No 
+STU20225380,JAIRAJ KOTHARI,,+913718376452,25,Other,B.Tech,Electronics,7,,99.5%,Jamalpur,TN,17 April 2025,True,y
+STU20204750,GIRINDRA RAJU,  zayyan92@example.com  ,,27,Other,BCA,Computer Science,5,7.88,85.8,Ozhukarai,TN,13/12/2021,False,No
+STU20213589,Yoshita Pandit,,+915153814474,-22,M,BCA,Information Technology,2,5.92,90.4,Kakinada,Tamil Nadu,2020-11-17,True,No
+STU20211645,Wakeeta Sheth,aviagate@example.org,04714627301,25,Woman,M.Tech,Electrical,8,,40.2,Kumbakonam,KA,2021-06-06,Yes,NO
+STU20208062,ZAID CHAUHAN,  niharika92@example.org  ,+912602563421,22,F,M.E,Civil,1,8.37,99.0,Agra,Karnataka,12 November 2024,yes,No
+STU20204641,zinal tank,ngole@example.org,4301071396,-19,M,M.E,Mechanical,2,7.91,55.5,Ranchi,Karnataka,2023-09-14,True,YES
+STU20207041,mitesh ramachandran,jalsa11@example.org,07541212678,21,MALE,MCA,Chemical,2,8.08,70.4,Kota,Rajasthan,31/01/2021,1,n
+STU20207189,Reyansh Ben,samarthdass@example.org,+919833816742,22,Other,M.Tech,Mechanical,1,7.43,66.3,Sambalpur,GJ,2024-06-20,0, Yes 
+STU20216277,Zehaan Srivastava,,+91-+911365024916,20,O,M.E,Civil,3,7.89,56.1,Bangalore,TS,2021-03-21,False,NO
+STU20241006,pavani contractor,MANTHANLATA@EXAMPLE.ORG,(+910249947174),21,Woman,M.Tech,Civil,6,7.32,66.5,Darbhanga,Delhi,12/02/2025,no, Yes 
+STU20239269,gunbir deep,chatura47@example.net,+919277423330,18,MALE,M.E,Mechanical,7,5.74,,Ramgarh,Rajasthan,23/09/2021,1,N
+STU20217275,Eesha Solanki,  qraju@example.net  ,+91-+917028951718,28,MALE,MCA,Electronics,2,7.07,79.9,Kanpur,RJ,01-02-2022,FALSE, Yes 
+STU20238715,Vedhika Golla,ozafrado@example.org,,24,Other,B.E,Computer Science,7,5.92,,Bilaspur,West Bengal,06 November 2021,TRUE,n
+STU20211056,Hiral Rajan,  chaturaapte@example.net  ,+91-+918772175354,17,Woman,M.E,Electrical,7,7.66,89.4,Guna,DL,03/10/2022,N,no
+STU20219370,gautam ranganathan,warinderchoudhury@example.net,,28,F,MCA,Electrical,1,9.63,63.3%,Satara,West Bengal,31-08-2023,True,yes
+STU20238344,Nicholas Shanker,,3296685161,22,Other,BCA,Computer Science,8,7.52,96.7%,Kolhapur,Maharashtra,2024-12-03,No,NO
+STU20218265,SIMON APTE,  baghyawatikumar@example.org  ,04885015569,19,male,B.E,Computer Science,1,9.71,43.0%,Akola,Kerala,2022-07-06,N,n
+STU20247981,Yachana Sagar,FRATTI@EXAMPLE.NET,,19,O,M.E,Mechanical,8,5.21,92.2%,Katni,West Bengal,06/11/2025,N, No 
+STU20219094,Girik Bassi,  zinalsachar@example.net  ,07191826199,17,Woman,BCA,Information Technology,6,,99.0,,Tamil Nadu,2021-12-22,1,yes
+STU20243525,RISHI SARIN,IJAYA87@EXAMPLE.NET,5066337050,26,Woman,B.E,Civil,6,5.55,71.4,Bhilwara,KA,26/09/2024,1,Yes
+STU20234052,WIDISHA MERCHANT,omya66@example.net,(+919935387584),78,F,B.Tech,Computer Science,5,7.84,46.4%,Proddatur,WB,2022-05-27,FALSE,n
+STU20215334,Matthew Sarraf,,+91-04905814770,27,Non-Binary,MCA,Chemical,4,7.13,72.7,Arrah,Tamil Nadu,2023-04-21,0, Yes 
+STU20229898,Thomas Lall,samiwriddhish@example.net,4484631224,22,other,B.Tech,Chemical,8,7.73,99.4%,Sirsa,Karnataka,2024-09-17,1,No
+STU20208066,Gaurang Korpal,  rbrahmbhatt@example.net  ,9490580778,27,MALE,BCA,Civil,3,5.27,59.9,Chapra,Delhi,2023-09-06,False, No 
+STU20219374,David Sathe,,+910804661963,21,Woman,M.Tech,Chemical,3,5.27,88.0,Malda,Rajasthan,16/02/2024,True,no
+STU20228976,Oliver Dalal,  janakidugar@example.net  ,07871255213,74,Other,B.Tech,Information Technology,3,-7.2,53.8,Vijayanagaram,UP,01 December 2020,0,Y
+STU20205313,oliver shetty,  tsoni@example.com  ,8366742860,24,FEMALE,B.E,Electronics,5,7.82,69.1,Sultan Pur Majra,KA,10-02-2024,1,No
+STU20249132,Daksh Loke,bailchaitanya@example.org,4186203036,25,Other,MCA,Civil,8,-9.04,93.0,Siliguri,DL,13 November 2023,0,y
+STU20243587,Oscar Anand,ZAYYANMODY@EXAMPLE.NET,4665743748,-23,other,M.E,Civil,4,,57.2,Bhimavaram,Gujarat,2021-09-24,1,yes
+STU20211891,Lipika Rau,mitesh14@example.com,04925158377,25,Female,MCA,Information Technology,2,6.45,44.0,Fatehpur,Karnataka,23-02-2023,Y,NO
+STU20236968,sneha nagar,mitalchaitanya@example.net,+910512382825,27,O,M.Tech,Civil,5,8.76,,Surendranagar Dudhrej,Delhi,01-11-2022,True,NO
+STU20247221,Caleb Bhatti,advaith11@example.net,,22,O,B.Tech,Chemical,3,7.42,69.3%,Nanded,TS,2025-02-13,0, Yes 
+STU20244415,Eta Naidu,  sarthakrana@example.com  ,(+913315520650),24,female,MCA,Mechanical,6,5.79,83.7%,Rajpur Sonarpur,Uttar Pradesh,06-10-2024,True,n
+STU20215876,Meghana Narula,  chandransoman@example.com  ,00544471324,21,Non-Binary,M.Tech,Electrical,8,6.59,60.9,Pondicherry,Gujarat,2023-02-26,FALSE,Yes
+STU20225593,Balendra Hans,kharevrinda@example.com,+91-+918478700505,24,Other,MCA,Computer Science,4,,98.5,Machilipatnam,Rajasthan,2021-11-13,0,N
+STU20203689,Vyanjana Sankar,devikaramachandran@example.com,(+919788977828),24,male,MCA,Electrical,7,5.53,76.7,Katni,Delhi,2023-02-07,Yes,no
+STU20213369,OMYA KRISHNAN,jasmit71@example.com,+91-+917688029424,19,Non-Binary,B.Tech,Civil,5,-6.55,86.1,Buxar,RJ,18 May 2021,0,YES
+STU20223392,Vrinda Ganesh,BALASUBRAMANIANTHOMAS@EXAMPLE.COM,+914384279788,19,Male,B.E,Chemical,8,13.48,48.3,Chapra,Rajasthan,31-10-2021,0,Y
+STU20216415,Waida Walia,leenachacko@example.net,6893135030,22,Other,M.E,Civil,1,8.23,68.9,Proddatur,Rajasthan,22-11-2024,False,N
+STU20224287,Nitara Kapadia,samarthbhatti@example.org,+91-09757366096,21,O,B.E,Electrical,4,7.32,75.5%,Singrauli,RJ,2025-09-22,True,YES
+STU20205075,yagnesh buch,  devankavya@example.com  ,03263039752,19,F,B.Tech,Electrical,6,9.65,99.8,,MH,14/03/2021,Y,NO
+STU20236617,FAQID WASON,bhavnalanka@example.org,09639191954,21,Female,M.Tech,Electronics,7,8.01,93.2,Tezpur,Uttar Pradesh,18/05/2025,False,No
+STU20233725,Ryan Das,ethanseth@example.org,7155188442,28,Woman,B.Tech,Computer Science,6,8.98,57.6%,Mirzapur,West Bengal,2025-03-10,no,YES
+STU20206153,Triya Manda,HTHAKKAR@EXAMPLE.COM,,21,F,B.Tech,Chemical,7,9.32,89.5,Anantapuram,Maharashtra,29/07/2021,0, No 
+STU20211512,AACHAL KOTA,advikdada@example.org,6691836264,-20,Male,M.E,Electronics,2,5.16,78.5,Orai,Telangana,2025-05-25,0,N
+STU20228177,kevin palla,KONDAKALA@EXAMPLE.COM,+91-+917849808412,25,Woman,B.Tech,Electronics,4,5.32,,Bhiwandi,Uttar Pradesh,09/10/2021,TRUE,YES
+STU20244120,Lopa Khanna,champak66@example.com,+91-5800439735,17,Woman,M.E,Electrical,1,9.37,51.3,Jammu,KL,13/05/2023,TRUE,No
+STU20204792,Sudiksha Jaggi,qchana@example.com,2111751868,25,FEMALE,MCA,Mechanical,8,-9.87,65.1,Burhanpur,Karnataka,17/07/2025,yes,NO
+STU20249246,pavani de,ckala@example.org,+91-08698864976,18,M,M.E,Electrical,3,9.51,72.4,Unnao,Maharashtra,29/05/2024,False,no
+STU20222790,RYAN SHARMA,  dalaja33@example.org  ,(3654145868),20,Man,M.Tech,Information Technology,8,5.7,51.0%,Bhopal,Rajasthan,04/11/2021,yes,YES
+STU20227755,Anay Parsa,nandasachi@example.org,+91-7691567164,27,female,MCA,Mechanical,4,7.82,52.8%,Asansol,Uttar Pradesh,14 April 2025,False,NO
+STU20201158,Indira Dhawan,  devanzarna@example.com  ,07652132833,19,Other,MCA,Electronics,6,11.79,66.3,Erode,KL,11/10/2024,N, Yes 
+STU20228532,Suhani Chand,ANSHBEDI@EXAMPLE.COM,(+912931839335),-28,Male,M.E,Electronics,5,13.08,95.2,Kavali,RJ,19 November 2020,0,NO
+STU20209524,Darika Sehgal,kalesachi@example.net,07426629912,21,Non-Binary,BCA,Electrical,3,7.09,93.9,,Uttar Pradesh,24/11/2024,True,N
+STU20215516,neha keer,  sharafsachi@example.net  ,01775170166,20,Non-Binary,B.Tech,Computer Science,7,8.07,96.2%,Proddatur,Maharashtra,2025-07-13,True,YES
+STU20242871,bhavani pant,  yashvi77@example.org  ,(09472256996),72,FEMALE,M.E,Information Technology,3,9.07,82.4%,Vijayawada,Gujarat,2022-03-29,TRUE,Y
+STU20239294,tripti narasimhan,DEOLAARNAV@EXAMPLE.NET,00026876811,68,Non-Binary,B.Tech,Information Technology,5,6.7,47.0,Raiganj,UP,29/11/2021,FALSE,N
+STU20233451,Aashi Chauhan,boraekavir@example.net,4707200642,69,other,BCA,Information Technology,2,9.62,73.8,Katni,Karnataka,2025-10-01,N,NO
+STU20226901,RADHA RAGHAVAN,  kotafaras@example.com  ,+918186151554,18,Male,B.E,Chemical,7,6.16,62.8,Kamarhati,Karnataka,2023-03-11,0,No
+STU20222297,Gavin Mani,spalan@example.net,(06926329676),23,Non-Binary,M.Tech,Information Technology,5,6.42,84.6,Jehanabad,GJ,03/09/2021,0,Y
+STU20201803,Ati Goda,amol89@example.org,(6498373543),18,female,M.Tech,Electronics,5,8.06,,Bhatpara,KL,2024-08-27,1,N
+STU20216147,VAISHNAVI SENGUPTA,yug48@example.com,(3471434558),-20,female,M.E,Electronics,5,7.29,95.7%,Durgapur,KA,22-02-2022,yes, No 
+STU20227248,manthan chakraborty,onkar91@example.org,(8677133344),18,Woman,B.E,Information Technology,5,5.12,71.0,Eluru,WB,2021-12-20,False,No
+STU20237547,Zayyan Naik,ravalyoshita@example.org,8760385977,20,male,MCA,Electrical,1,14.46,91.6,Kurnool,Karnataka,2023-02-18,False,Y
+STU20215772,ARADHANA DATE,zaiddhingra@example.net,,-23,MALE,BCA,Mechanical,4,12.85,51.2,Sambhal,Karnataka,31-03-2025,no,YES
+STU20203676,adweta ghosh,  yatan23@example.org  ,+914102615347,-17,male,B.E,Civil,2,7.25,80.1,Uluberia,WB,11-01-2024,no,NO
+STU20241328,Chatresh Hari,dixiturvi@example.com,(+912005436459),77,M,M.E,Electronics,3,8.01,,Varanasi,Gujarat,2021-10-01,No,NO
+STU20205059,Dev Ganesh,,01543799371,28,F,M.E,Information Technology,3,6.82,95.1,Avadi,TS,02-12-2020,False, No 
+STU20207828,gagan vala,fhayer@example.com,+91-9805626565,24,female,B.Tech,Information Technology,5,7.37,49.2,Anantapuram,Maharashtra,2023-10-18,FALSE, No 
+STU20211685,Idika Walia,  eprabhakar@example.net  ,(5067165726),21,Female,B.Tech,Mechanical,4,8.41,80.0,Nagaon,WB,28-02-2023,0, Yes 
+STU20211502,Eiravati Saha,tdixit@example.com,+91-+918733427086,18,Non-Binary,BCA,Electronics,7,7.1,60.5,Proddatur,West Bengal,15-05-2025,FALSE, No 
+STU20213009,Barkha Mukhopadhyay,,03494937597,19,male,M.E,Electronics,8,9.99,88.6%,Bongaigaon,West Bengal,12-12-2022,False,yes
+STU20209673,chanchal prakash,dhaliwaljatin@example.org,+919968814353,28,FEMALE,BCA,Mechanical,1,12.51,81.9,Anand,Telangana,2022-01-27,Yes,YES
+STU20226191,Kavya Kumar,desaifrado@example.com,08539078956,-27,F,MCA,Mechanical,7,6.36,66.7,Bhind,West Bengal,2024-07-16,N,N
+STU20245397,maanav de,  owen10@example.org  ,+915395024026,22,MALE,B.Tech,Mechanical,8,6.22,67.9%,Rajkot,Kerala,2024-11-29,No,n
+STU20228034,ANTHONY BARAL,,02055543840,21,O,B.Tech,Mechanical,2,7.48,70.6,Munger,Maharashtra,2021-02-10,no, Yes 
+STU20205033,Theodore Goda,jbedi@example.org,+91-+917278895798,26,Other,B.Tech,Information Technology,2,7.1,75.0%,Motihari,UP,27/08/2024,N,N
+STU20234510,Riya Sane,  choudhuryfaqid@example.net  ,(+918059826204),-25,male,MCA,Information Technology,8,6.21,68.4,,Telangana,27/11/2023,1,Yes
+STU20207567,Faris Sura,peter50@example.org,+91-04329271296,27,Man,M.Tech,Electronics,8,6.62,54.9,Sambhal,Gujarat,2024-07-05,No, Yes 
+STU20207818,XITI PANDYA,ranganathanbrijesh@example.com,(+917159696641),26,other,BCA,Electronics,7,7.25,,Jaipur,Kerala,17/08/2023,No,n
+STU20209364,Nikita Kaur,luthraharrison@example.org,2496718325,25,O,M.Tech,Information Technology,3,,61.6,Sambalpur,Maharashtra,2025-06-08,1,Y
+STU20234365,Qadim Suresh,dasikshita@example.org,(+916794975679),28,Woman,M.E,Mechanical,2,5.77,79.1,Durgapur,Gujarat,26 February 2025,0, No 
+STU20215210,Abhiram Chokshi,qdesai@example.net,,24,Female,MCA,Chemical,6,9.02,68.1,Srinagar,KA,24/02/2024,True,yes
+STU20229301,isaiah sane,maanav15@example.org,+916557676952,25,female,B.Tech,Computer Science,6,6.71,83.5,Yamunanagar,Kerala,03/06/2024,Y,yes
+STU20244560,Prisha Kadakia,faraj48@example.com,+91-08536649878,20,Male,BCA,Electrical,5,8.43,95.3,Surat,Tamil Nadu,02/04/2025,yes,NO
+STU20248811,UMANG ISSAC,aryanbatra@example.org,09176936763,25,O,M.Tech,Computer Science,2,9.26,,Kolkata,KA,2021-10-08,Y,n
+STU20232735,ZAITRA WASON,LALLYUVRAJ@EXAMPLE.COM,(+916518275539),-17,Male,B.E,Electronics,4,7.23,83.5,South Dumdum,KL,2022-06-24,Yes,No
+STU20211185,Ekalinga Rama,jagvi10@example.com,+91-6368157981,-19,FEMALE,B.E,Information Technology,5,5.83,47.6%,Davanagere,Gujarat,2025-02-13,1,y
+STU20239037,Gopal Ganesh,bhattishivansh@example.net,(3613861207),-24,MALE,MCA,Chemical,6,5.85,83.2%,Agra,Rajasthan,09/08/2021,1,Y
+STU20235554,Champak Choudhary,NATHANIELSAMI@EXAMPLE.NET,(+916697848018),24,Other,B.E,Electronics,6,6.78,80.2,,KA,2021-10-23,True,yes
+STU20204612,Darika Lal,yochana77@example.org,7535560932,23,O,B.Tech,Computer Science,4,6.51,52.7%,Bhilwara,Tamil Nadu,27/07/2025,No,No
+STU20228206,Barkha Misra,CDIXIT@EXAMPLE.NET,+91-05588675339,18,other,B.E,Electronics,5,6.68,113.6,Muzaffarpur,Karnataka,10/05/2024,Yes,Y
+STU20221711,Maanas Tiwari,VEDHIKASHANKAR@EXAMPLE.ORG,(8813770285),78,other,M.E,Electronics,8,8.95,62.9,Madanapalle,KL,2024-05-03,TRUE,n
+STU20202163,ANITA MANDA,hemaljani@example.net,4874016400,28,O,B.Tech,Electronics,2,9.53,91.6,Bikaner,KA,02-02-2023,True,No
+STU20244726,DHRITI CHANA,  bosewriddhish@example.org  ,+919014870682,23,M,BCA,Electronics,7,,94.6,Mehsana,West Bengal,2025-03-30,False,Yes
+STU20222393,Krisha Sane,  dakshchar@example.com  ,+91-02018596263,23,O,M.E,Chemical,3,8.81,68.9,Kochi,Delhi,29/11/2022,False,N
+STU20232584,Amara Bora,,04835030564,22,Woman,BCA,Mechanical,1,8.65,72.2%,Rajpur Sonarpur,Telangana,08/09/2025,Y,n
+STU20234971,TRISTAN PRABHAKAR,,8490277038,22,female,B.E,Chemical,7,6.83,115.9,,DL,23-02-2021,True,YES
+STU20232481,Januja Mand,omya35@example.org,(+910005347491),-28,other,B.Tech,Electronics,3,11.969999999999999,79.4,Udaipur,Maharashtra,03/01/2023,1,N
+STU20202524,QUSHI SETH,odikanori@example.com,+91-06156545271,21,MALE,M.E,Electrical,4,6.53,74.9%,Guwahati,Rajasthan,27/08/2021,FALSE,N
+STU20236793,JOSHUA KAPOOR,bajajchanchal@example.com,+91-8686337524,27,Female,MCA,Computer Science,5,8.0,61.1,Gorakhpur,KL,19-02-2021,Yes,y
+STU20202166,Udyati Baria,  jeevika28@example.net  ,(+918325381793),24,Man,BCA,Computer Science,7,7.65,64.8,Pondicherry,TN,2023-11-11,yes,Yes
+STU20225278,Wishi Khalsa,NIRJA89@EXAMPLE.COM,+910975197128,18,Man,B.E,Electronics,7,5.8,,,Karnataka,05-04-2025,No,n
+STU20221832,Upma Bahl,pallaudarsh@example.net,+91-+910033092327,18,Other,M.E,Chemical,5,5.22,60.0,Phusro,Tamil Nadu,2022-09-19,no,yes
+STU20221049,Jagvi Munshi,gdalia@example.org,+912255794155,28,Male,BCA,Computer Science,1,,82.0,Raipur,Uttar Pradesh,09/04/2024,Y, Yes 
+STU20248245,devansh venkataraman,johaljacob@example.org,+91-2087510293,26,MALE,M.E,Computer Science,4,6.0,62.4,,Karnataka,24/08/2025,1, Yes 
+STU20242638,Leela Dua,devanshsachdeva@example.com,08760366909,18,Non-Binary,M.Tech,Information Technology,5,5.66,60.9,Morena,KA,29/11/2020,yes,NO
+STU20227572,EKIYA SURESH,choudhuryjanani@example.com,+910391171822,21,Man,M.Tech,Information Technology,6,6.06,70.0%,Jamalpur,RJ,08-04-2022,yes,No
+STU20244212,Vrinda Mittal,  keyachakraborty@example.com  ,6475011117,25,Non-Binary,MCA,Information Technology,4,-6.21,56.0,,Telangana,2025-11-08,N,YES
+STU20237815,Yochana Sagar,  jbhardwaj@example.com  ,4064039106,28,male,B.E,Civil,6,8.33,62.5,Rajkot,TN,19 June 2025,False,YES
+STU20206409,Yuvraj Dani,xkara@example.net,07749649909,26,female,MCA,Chemical,2,8.6,78.0,Dhule,Gujarat,2022-08-28,N, No 
+STU20208372,Ishita Johal,DMORAR@EXAMPLE.COM,+911249035213,24,Other,BCA,Mechanical,3,9.39,86.8%,Tenali,KL,2025-03-25,Y,YES
+STU20245372,Raagini Swamy,fradowadhwa@example.net,+916170243765,26,other,BCA,Electronics,4,6.15,41.6,Bharatpur,Karnataka,03/07/2024,FALSE,y
+STU20231693,qarin bhargava,bordechanakya@example.org,02312038750,23,male,M.E,Computer Science,6,7.88,,Morbi,Telangana,29/12/2020,FALSE,Yes
+STU20242391,lipika kibe,,01830469901,17,male,M.Tech,Chemical,1,-8.37,56.3,Dharmavaram,TS,13-08-2025,N,No
+STU20246804,manbir chaudhry,  chaudhuribhavika@example.net  ,+91-06467997024,27,other,MCA,Electrical,5,8.05,51.5,Asansol,Delhi,12 April 2024,no,no
+STU20237184,Ayush De,HSURA@EXAMPLE.COM,(00145089935),23,Male,MCA,Electrical,3,8.27,60.9,Bhiwani,Tamil Nadu,23/12/2022,N,yes
+STU20209380,NITARA IYENGAR,ekannan@example.com,+91-7062397265,27,F,BCA,Electrical,5,6.49,46.5,Berhampore,Karnataka,07-07-2022,FALSE, No 
+STU20231605,abhiram oza,SAMIKEVIN@EXAMPLE.COM,+913611155426,21,male,B.Tech,Chemical,4,9.43,58.9%,Asansol,GJ,11/06/2021,No,NO
+STU20236379,Charita Dixit,charitakothari@example.net,04908108186,26,O,B.E,Electrical,3,7.83,61.9%,Bareilly,WB,24-10-2024,0,y
+STU20228687,SUHANI BHANDARI,  zarna02@example.com  ,(06212867163),25,male,MCA,Civil,8,,86.0,Tiruppur,Gujarat,2023-07-01,1,Yes
+STU20216455,Peter Borde,oscarvarkey@example.org,00648422940,21,Male,M.Tech,Electronics,2,8.73,85.3%,Kirari Suleman Nagar,Delhi,2022-03-06,TRUE,No
+STU20224643,Chaitanya Baria,,6717731806,27,Non-Binary,MCA,Chemical,8,9.53,80.3,Mira-Bhayandar,Uttar Pradesh,29/11/2023,no,YES
+STU20221833,Pahal Chaudhry,advikatoor@example.org,(06985700272),27,other,MCA,Mechanical,8,8.95,73.0%,Rewa,Karnataka,25-07-2022,0,Yes
+STU20238331,Joshua Tank,MITRAUNNI@EXAMPLE.ORG,01783332116,23,Male,MCA,Computer Science,5,7.98,71.1%,Nanded,Gujarat,2023-08-22,1,no
+STU20249914,JYOTI SHA,lnarang@example.org,1751863637,25,other,BCA,Computer Science,7,9.37,42.6%,,Telangana,2023-04-11,No,No
+STU20202936,UPKAAR RAJAGOPALAN,swamyomkaar@example.org,(+911451951510),17,Female,MCA,Chemical,2,8.69,72.4,Mangalore,KL,04 July 2024,No,No
+STU20241986,triveni pathak,sarkarhitesh@example.org,(09681645352),26,Non-Binary,B.Tech,Chemical,4,8.13,55.9,Sasaram,KA,2021-10-31,TRUE,Yes
+STU20229951,Vamakshi Bawa,FLALA@EXAMPLE.COM,,27,Man,M.E,Chemical,2,5.08,44.1,Latur,GJ,21/06/2021,True,y
+STU20239261,Waida Radhakrishnan,keya17@example.net,3271040541,24,Non-Binary,B.E,Chemical,2,5.64,45.8,Tiruvottiyur,WB,2022-04-23,No,No
+STU20241697,Faraj Borra,TRIPATHIAZAAN@EXAMPLE.NET,(6930848872),20,male,MCA,Information Technology,8,6.36,95.4,Katni,GJ,2022-10-05,1,YES
+STU20234796,HARINAKSHI SIDHU,chaayaramakrishnan@example.com,+91-5729341722,18,Female,B.E,Electronics,1,8.34,71.1,Sangli-Miraj & Kupwad,WB,18 January 2025,0,n
+STU20208368,vyanjana guha,anirudh20@example.net,,21,FEMALE,B.Tech,Civil,2,8.88,54.2,Kumbakonam,KL,2022-09-16,FALSE,No
+STU20231519,Tanmayi Magar,zsridhar@example.com,+91-2120216979,21,Woman,M.Tech,Chemical,3,8.83,98.7,Bokaro,TS,03/02/2024,0,no
+STU20233165,Ranveer Hans,  praneelsagar@example.net  ,+919576122868,24,Male,M.Tech,Civil,2,8.65,,Sangli-Miraj & Kupwad,WB,27/05/2025,False,No
+STU20202398,Ekapad Sodhi,mangatnilima@example.org,+91-+916567661825,-18,Woman,B.Tech,Electrical,6,-9.06,93.4,Mangalore,Kerala,2025-06-07,0,Y
+STU20214553,Yahvi Vohra,chavvi34@example.net,08123083402,26,Other,M.E,Civil,7,7.21,76.1%,Guntur,MH,01-03-2023,True,No
+STU20221599,NITESH SARRAF,tanay26@example.net,,27,Male,B.E,Mechanical,1,-9.33,59.9%,Kolhapur,KA,20 December 2022,0,No
+STU20245106,Eiravati Khurana,  rdas@example.com  ,(+912104696325),27,Other,MCA,Electrical,3,,94.2,Jhansi,Maharashtra,2022-03-21,No,No
+STU20219176,Balendra Saini,ekantakothari@example.com,(5419518023),25,FEMALE,BCA,Computer Science,5,8.87,82.2,Rewa,DL,13 June 2021,No,NO
+STU20234434,OMKAAR BANIK,  william02@example.org  ,+91-06566938011,-24,Female,MCA,Computer Science,7,8.36,48.4%,Karaikudi,GJ,2025-10-27,True,No
+STU20244744,chandani sahota,  nicholas17@example.org  ,,18,other,B.E,Chemical,4,7.78,91.4,Tiruppur,DL,07/04/2024,1,Y
+STU20219229,Harshil Buch,chakrika47@example.net,6275705964,26,F,B.Tech,Chemical,8,5.5,94.6,Aurangabad,Maharashtra,2024-04-26,True,N
+STU20211104,ikbal seth,PBASAK@EXAMPLE.NET,+91-6086803476,23,M,M.Tech,Information Technology,6,8.18,81.6,Baranagar,MH,14/10/2024,False,YES
+STU20219163,Janya Bora,meghana91@example.com,05226752895,-25,Female,M.E,Mechanical,8,5.12,,Giridih,Uttar Pradesh,2022-05-09,False,Yes
+STU20233142,ISHA GHOSE,warjasnadkarni@example.net,5905992937,22,Non-Binary,BCA,Computer Science,6,11.21,47.4,Akola,Rajasthan,2025-01-12,True,Yes
+STU20219540,Chakradhar Dasgupta,  qshankar@example.net  ,2708086978,20,FEMALE,B.E,Mechanical,1,7.78,75.5,,TN,04-05-2022,False,n
+STU20226340,Darpan Kale,VAMAKSHI17@EXAMPLE.NET,,70,FEMALE,B.Tech,Mechanical,8,7.64,78.3,Medininagar,Kerala,22 July 2022,N, No 
+STU20203634,Mitesh Gaba,noahsarma@example.org,,22,Female,MCA,Civil,5,8.31,64.0%,Jammu,Uttar Pradesh,2023-12-28,TRUE,no
+STU20217102,Faris Ahuja,golagaurav@example.net,(9467232487),24,Non-Binary,M.E,Electronics,8,7.93,61.0,Mathura,TN,2022-05-07,no,YES
+STU20206798,kritika rajan,  ikbalbabu@example.org  ,8629127990,25,M,BCA,Information Technology,6,9.32,40.7,Tiruchirappalli,Telangana,18-12-2024,0,yes
+STU20235043,warjas ben,,+91-04471639282,23,Female,B.Tech,Information Technology,7,8.6,83.6,Parbhani,KL,2021-11-03,1,Y
+STU20231341,Nisha Arora,wagleanvi@example.net,00862118233,22,male,BCA,Civil,6,-5.44,90.7%,Raichur,Delhi,2023-02-19,False, No 
+STU20244813,UNNI BATRA,  vermadevika@example.org  ,4353344857,19,Male,M.Tech,Electrical,4,11.33,89.0,Darbhanga,Maharashtra,2022-02-17,1,no
+STU20235896,ABHIRAM BIR,sabharwalguneet@example.net,+917534430091,68,female,MCA,Computer Science,3,5.6,85.4%,Hindupur,Tamil Nadu,15-09-2022,Y, Yes 
+STU20232687,EKBAL PARSA,iyergauri@example.org,5444392840,18,MALE,M.E,Information Technology,1,5.13,,Ichalkaranji,KA,23/10/2023,1, No 
+STU20228353,YATIN MALL,  jananisoman@example.net  ,04090034864,19,Other,B.Tech,Electronics,3,8.68,47.2,Bhilai,MH,2025-05-30,no,N
+STU20205224,vivaan tak,balhaar47@example.net,9303614987,18,Female,MCA,Chemical,4,8.38,,Suryapet,West Bengal,2022-07-06,False,n
+STU20202885,Jai Vasa,smutti@example.org,+91-+913691559428,17,Female,MCA,Computer Science,3,9.65,84.4%,,Uttar Pradesh,2023-02-26,1,Yes
+STU20245269,Manbir Som,hbains@example.org,(+917770793349),25,Other,M.E,Electrical,3,6.83,53.4%,Faridabad,Kerala,14-09-2023,False,y
+STU20231245,Rushil Srinivas,jagat67@example.net,02568621102,-21,F,M.Tech,Electrical,4,8.79,,Hapur,Rajasthan,11/02/2025,False,NO
+STU20204548,Gaurika Ramakrishnan,zinalzachariah@example.com,(+911884852008),24,Other,M.E,Chemical,8,,89.8%,New Delhi,KL,2023-06-13,yes,Yes
+STU20216370,tamanna parsa,chanderchandani@example.com,(06168147214),-19,Man,MCA,Electronics,6,6.98,42.9,Hajipur,Gujarat,19 May 2024,0, Yes 
+STU20234114,bhavani singh,  vsastry@example.org  ,(+914711671902),21,MALE,MCA,Civil,1,7.6,88.4,Phusro,DL,12-06-2023,N,N
+STU20215516,neha keer,  sharafsachi@example.net  ,01775170166,20,Non-Binary,B.Tech,Computer Science,7,8.07,96.2%,Proddatur,Maharashtra,2025-07-13,True,YES
+STU20217878,NOAH DEWAN,samuelbhargava@example.net,08498254494,27,Non-Binary,M.E,Computer Science,2,-9.18,70.0,Bhavnagar,UP,12/05/2024,Yes,Y
+STU20208765,Manbir Dasgupta,girik34@example.org,+918499390892,19,other,M.Tech,Electronics,7,8.98,111.0,Solapur,Gujarat,15-12-2022,1,NO
+STU20222350,Azad Jaggi,,+919678994053,22,Other,MCA,Electronics,1,6.98,58.3%,Ahmedabad,Delhi,2022-08-21,0,yes
+STU20224300,Udyati Deep,sidhugunbir@example.com,07733294562,69,FEMALE,MCA,Electronics,6,5.3,48.9,Anantapur,Tamil Nadu,19/09/2024,Y,n
+STU20207120,ayushman bhattacharyya,WCHOWDHURY@EXAMPLE.COM,02459928161,78,other,M.E,Information Technology,2,6.68,59.4,Miryalaguda,Tamil Nadu,19/06/2021,No,no
+STU20244130,EKANTA DIVAN,dateanvi@example.net,9856984789,18,M,MCA,Civil,8,-7.78,54.4%,Navi Mumbai,Rajasthan,01-11-2021,no,NO
+STU20234674,Amol Khosla,  ekalingachaudhuri@example.net  ,+917903067383,-18,female,BCA,Mechanical,2,8.81,74.4,Kolhapur,TS,23/02/2025,1,No
+STU20208237,NITESH EDWIN,umang58@example.com,+914384249818,22,Other,B.E,Electrical,7,8.45,,Guntakal,Gujarat,20/10/2025,True,n
+STU20208729,SAMUEL DEVI,lakshitmore@example.net,8262925188,22,FEMALE,M.Tech,Electronics,1,7.76,94.8,,TS,25/07/2023,Y,NO
+STU20218573,Radhika Dugar,uaggarwal@example.net,08281489325,23,female,MCA,Electrical,4,8.42,90.6,Panvel,Maharashtra,16-05-2025,1,yes
+STU20214492,Ekiya Rao,LEELASAMPATH@EXAMPLE.NET,+91-4118005375,27,Female,B.Tech,Electronics,7,8.23,96.4,Kolkata,Tamil Nadu,08/01/2023,yes,NO
+STU20239260,YASH KOTA,devikachad@example.net,+914152085076,19,F,B.Tech,Information Technology,1,7.77,86.0,Shimoga,KL,2021-01-13,0, Yes 
+STU20233166,inaya mistry,logan68@example.net,+911589357126,18,male,M.Tech,Information Technology,7,9.13,76.3%,Jodhpur,TN,24/08/2021,FALSE,YES
+STU20239238,chandani lad,azaanravel@example.com,8317121003,17,MALE,BCA,Electronics,5,5.82,59.4,Davanagere,Delhi,08/04/2024,0,N
+STU20212101,Zansi Lad,KAMYADATE@EXAMPLE.NET,01056481491,70,Non-Binary,B.E,Mechanical,7,9.75,41.9%,Sirsa,Tamil Nadu,2025-03-16,no, No 
+STU20249899,Gaurav Guha,akakar@example.net,(08508214862),23,FEMALE,B.E,Chemical,3,6.45,57.3,Malegaon,KA,02/07/2022,0,N
+STU20216527,Praneel Nagy,vasudha77@example.com,6903337363,23,Non-Binary,BCA,Information Technology,7,9.24,44.3%,Khandwa,Tamil Nadu,26/01/2024,No,YES
+STU20211230,Chatresh Bobal,  ghayer@example.org  ,6846022356,28,F,B.E,Information Technology,4,5.88,91.4,Asansol,TS,2023-07-21,FALSE, No 
+STU20223846,Anusha Contractor,varkeyharsh@example.org,5854249321,19,MALE,BCA,Mechanical,6,9.57,41.7%,Pudukkottai,WB,29/09/2023,yes, Yes 
+STU20241188,Girindra Chatterjee,bpandya@example.com,(00106513338),27,Non-Binary,B.Tech,Electrical,5,8.84,60.4,Kolhapur,Gujarat,13-06-2024,False,YES
+STU20238848,AYUSHMAN SAVANT,advaithvarughese@example.org,+915562606029,-20,Other,M.Tech,Electrical,7,5.11,42.6,Saharsa,Kerala,18 May 2023,Yes,YES
+STU20211243,WARHI GREWAL,baljiwan04@example.net,1547887287,22,Male,BCA,Mechanical,1,5.87,43.1,Nellore,Telangana,26-10-2021,yes,Yes
+STU20248935,tanvi bansal,saksham03@example.org,04868740345,22,Woman,BCA,Chemical,7,7.28,,,Delhi,2023-03-09,1,no
+STU20235844,Finn Dugar,oscarborde@example.org,+91-+916797403447,-25,male,M.Tech,Civil,7,8.39,94.2,Muzaffarpur,KL,10/02/2023,No,n
+STU20223292,Gabriel Sabharwal,  lkalita@example.com  ,04063356939,28,male,MCA,Civil,5,6.3,85.1,Chapra,TS,2020-11-26,Yes, Yes 
+STU20203295,ISHA MANNE,hitesh02@example.com,+916149331637,25,Female,M.Tech,Chemical,6,7.89,106.4,Sonipat,West Bengal,2021-10-11,1,NO
+STU20207520,Qushi Naik,CHOWDHURYODIKA@EXAMPLE.COM,05355904259,25,F,MCA,Electrical,7,7.12,84.1,,Uttar Pradesh,2024-08-10,yes,NO
+STU20238204,FRADO KOTHARI,avi43@example.net,8364037613,23,female,M.Tech,Civil,8,6.84,87.8,Hindupur,GJ,2021-06-19,TRUE,No
+STU20202492,Aadhya Chakraborty,damyantireddy@example.net,+91-+910952004615,19,female,BCA,Civil,2,5.32,53.3%,Haridwar,Karnataka,15-08-2023,True,NO
+STU20208055,Jalsa Nadig,LILASALVI@EXAMPLE.COM,2710910430,26,Man,BCA,Mechanical,6,5.51,59.7%,Sikar,GJ,2025-03-03,False,n
+STU20206097,Onkar Bhatt,COMARWIDISHA@EXAMPLE.NET,+91-3136565198,28,other,M.E,Electronics,1,5.87,92.5%,Pondicherry,DL,04/09/2022,1,Y
+STU20223854,Triya Rattan,  nkhare@example.org  ,(2761539669),-28,Other,MCA,Information Technology,6,6.12,75.3%,Tinsukia,TN,2022-11-14,No,NO
+STU20238245,Eta Balan,shravya73@example.com,,27,Female,B.E,Information Technology,1,6.76,44.5,Agartala,Rajasthan,05/03/2022,N, Yes 
+STU20226851,GAUTAM SAMI,quincy66@example.org,(+918573278814),19,other,MCA,Electronics,2,6.43,,Junagadh,DL,2021-07-15,No,N
+STU20204830,Zilmil Shan,YUTIKADEY@EXAMPLE.COM,+91-5269495888,24,Male,BCA,Information Technology,6,9.58,53.3%,Phusro,Karnataka,2023-05-31,No, No 
+STU20229945,Zashil Butala,NOAH06@EXAMPLE.NET,03611037129,22,O,M.Tech,Chemical,8,9.9,68.7,Kadapa,Tamil Nadu,2024-08-24,True,YES
+STU20222931,vedant murthy,bishakha49@example.net,(04759876220),20,FEMALE,B.Tech,Electronics,6,8.47,70.6,,Telangana,2023-01-01,True,No
+STU20209780,CHANDRAN GOYAL,christopherpalla@example.org,+910994510162,22,MALE,M.E,Mechanical,8,6.33,47.2%,Anantapuram,Tamil Nadu,24/09/2025,False,Y
+STU20232911,ANAY PILLAY,imaran69@example.com,0974993097,19,MALE,B.Tech,Mechanical,8,5.58,54.1,Loni,Uttar Pradesh,2024-02-05,1, No 
+STU20209564,Devansh Jani,SLOKE@EXAMPLE.NET,+91-+914936312303,68,male,M.E,Electronics,1,13.35,52.0,Madhyamgram,TN,28/12/2024,No, No 
+STU20219095,mitali bose,nicholas93@example.net,08562185016,24,Non-Binary,BCA,Civil,6,9.32,77.6,Aurangabad,TN,2023-10-05,no,Yes
+STU20249590,Gunbir Sinha,  aarnagoswami@example.net  ,+91-01353465549,24,male,BCA,Civil,5,5.96,46.8,,Tamil Nadu,11-11-2021,no,n
+STU20249683,Aryan Raj,chatreshbhalla@example.org,(02442043805),-19,female,M.Tech,Mechanical,4,6.65,44.7%,Kota,Rajasthan,22-08-2025,No,y
+STU20213281,osha muni,DPRABHU@EXAMPLE.NET,+915120461872,70,male,B.Tech,Information Technology,6,7.66,95.8,Chandrapur,Tamil Nadu,2024-02-09,False,N
+STU20232462,Tara Yadav,virajbora@example.org,2707903202,20,FEMALE,M.Tech,Chemical,7,8.7,85.6,Aizawl,WB,09/09/2021,True, Yes 
+STU20226924,Sai Grewal,  lakshbasu@example.org  ,+914968549822,-26,Female,M.Tech,Information Technology,5,6.19,68.3,Tirupati,KL,2023-10-12,No,no
+STU20212016,pahal bansal,NATHANIELMAHAJAN@EXAMPLE.ORG,,28,female,M.Tech,Chemical,1,6.79,,Rajkot,Kerala,2024-04-28,Y,No
+STU20213067,JAGDISH CHADHA,  keyagoyal@example.org  ,2447174654,17,Woman,B.Tech,Electrical,7,6.01,109.4,Srinagar,Tamil Nadu,22/03/2023,N,n
+STU20227544,siya barman,shettybimala@example.net,+910074946539,22,Other,M.E,Civil,4,12.59,84.2,Ranchi,KA,2022-03-27,1,NO
+STU20233608,Pahal Mutti,loyalomisha@example.com,+917957602437,19,Non-Binary,BCA,Electrical,3,13.68,69.0,Bahraich,WB,02 November 2022,Y,yes
+STU20244084,IRYA CHANDER,  lekha04@example.com  ,01839826224,22,other,M.E,Information Technology,3,9.79,67.0,Agartala,WB,2025-01-21,True,Y
+STU20244401,Yuvraj Kade,agarwalidika@example.net,5518426945,17,Male,M.Tech,Computer Science,6,5.18,91.2,Hyderabad,Kerala,20 November 2023,False,n
+STU20244977,Aarav Sankar,CPRABHAKAR@EXAMPLE.NET,6376599162,26,O,M.Tech,Electrical,7,5.85,56.1,Morena,Gujarat,03/11/2022,No,Yes
+STU20201575,Pushti Sahni,,+91-+915292407553,27,FEMALE,B.E,Chemical,8,7.34,92.3,Khandwa,Gujarat,17/04/2024,0,yes
+STU20216829,Noah Karpe,varkeyavni@example.org,(+912259136517),25,Woman,M.E,Electronics,7,5.43,77.1,Nangloi Jat,DL,27/08/2022,True,yes
+STU20227171,Wyatt Krishnan,pallavipurohit@example.org,+91-09796886805,27,Female,M.Tech,Electrical,2,8.23,65.4,Moradabad,WB,22/12/2022,True,No
+STU20244721,Siya Modi,  garghemang@example.net  ,(2097023164),18,Woman,B.E,Mechanical,7,6.3,58.2,Muzaffarpur,Maharashtra,04 May 2023,True, No 
+STU20209582,Hitesh De,barmanrayaan@example.org,7118954738,-28,female,MCA,Chemical,3,6.89,62.8,Varanasi,Tamil Nadu,13/12/2021,No,y
+STU20202741,Dominic Prashad,ahujanimrat@example.net,(06287923264),24,M,BCA,Electronics,5,9.16,98.4%,Kalyan-Dombivli,West Bengal,2023-06-07,False,NO
+STU20231760,Ojasvi Tak,  wahab38@example.org  ,+915452280156,17,Other,B.E,Computer Science,5,9.17,55.8%,Tadipatri,Uttar Pradesh,2022-10-16,yes,no
+STU20236142,NIHARIKA MAHAL,  vasaunnati@example.com  ,,22,MALE,BCA,Mechanical,3,9.74,81.0,Jammu,Delhi,16/09/2023,False,Y
+STU20245329,SAANVI RAMA,ramaswamyaadhya@example.com,+913432756041,19,Male,BCA,Chemical,5,5.03,88.0,,Tamil Nadu,2024-05-17,Y,Yes
+STU20225872,Ira Menon,oliver09@example.net,09407929049,20,M,B.Tech,Civil,8,5.77,,Baranagar,Telangana,26/12/2024,True,NO
+STU20223750,yashvi raval,chaitalybhatia@example.com,(0085140369),-27,MALE,MCA,Electrical,6,,55.9%,Ratlam,Delhi,2024-02-13,True,no
+STU20216633,Ekta Dayal,  chanakyamandal@example.com  ,+911896164236,20,female,MCA,Chemical,3,5.8,53.2%,Jaipur,GJ,2022-08-19,TRUE,YES
+STU20209148,ARYA MAHAJAN,eparekh@example.net,6784271147,78,Other,B.Tech,Computer Science,7,7.06,73.4%,Ahmednagar,MH,03-01-2022,True,N
+STU20203955,Vivaan Nagar,warjas42@example.net,+91-3644089268,-21,Other,B.E,Mechanical,6,5.03,92.2,Nashik,Kerala,17/10/2023,0,yes
+STU20209700,urvi palla,nihal41@example.com,+916029333346,20,Non-Binary,M.Tech,Computer Science,2,7.07,83.0,Bangalore,Karnataka,22 November 2024,True,YES
+STU20248680,Amruta Chopra,ksarna@example.org,06053134026,-28,other,B.E,Electronics,7,7.46,48.3,Bathinda,Delhi,17/02/2021,Yes,Yes
+STU20243845,Anthony Nadig,,+91-+917135785294,28,Man,B.Tech,Civil,6,7.52,63.1%,Junagadh,KL,2022-07-30,TRUE,NO
+STU20212475,Vasana Sarin,  vamakshi15@example.net  ,,25,M,MCA,Electrical,2,9.52,78.7,,Rajasthan,2021-04-24,FALSE,No
+STU20233204,Ekaraj Dhar,sandhuyatan@example.com,,18,other,B.E,Mechanical,7,7.62,81.7%,Ahmedabad,Kerala,26/03/2021,TRUE,Y
+STU20246703,Charita Chakraborty,idas@example.net,4639855474,-22,F,M.Tech,Information Technology,4,7.27,64.2,Pondicherry,Maharashtra,08/10/2023,No,yes
+STU20234389,waida maharaj,WGOSWAMI@EXAMPLE.NET,(06392086780),25,FEMALE,B.E,Civil,2,7.19,81.8,Singrauli,West Bengal,08/05/2022,True,n
+STU20208542,Jack Mannan,choudhurygaurav@example.com,9319525690,22,Man,M.Tech,Mechanical,6,-9.45,,Ghaziabad,Gujarat,02/06/2025,No,Y
+STU20237168,patrick dugar,  sundaramyutika@example.org  ,+91-+913799563531,22,female,B.E,Electronics,8,6.51,71.2,,KL,11/09/2021,No,YES
+STU20201829,GAUTAM BHALLA,theodorebahri@example.net,+91-00593252500,21,Female,BCA,Civil,4,9.81,94.1,Dharmavaram,West Bengal,2022-01-25,0,y
+STU20231872,Ojas Suri,logan25@example.com,0507236887,23,O,B.E,Electronics,7,9.97,62.5%,Pallavaram,MH,25 May 2024,0, Yes 
+STU20202653,Gavin Modi,tanmayiom@example.com,,26,MALE,M.E,Information Technology,1,6.22,42.7,Korba,Rajasthan,2020-11-17,1,y
+STU20236152,Nachiket Devi,,04196931572,69,M,B.E,Electrical,2,6.24,76.1,Gangtok,Kerala,2021-09-03,False,YES
+STU20208909,ryan keer,ALKAJHAVERI@EXAMPLE.ORG,+913952111790,18,Female,M.E,Computer Science,2,9.16,83.8,Ongole,WB,2024-01-08,FALSE,no
+STU20235475,Varenya Joshi,CHAVVI03@EXAMPLE.ORG,+91-1739363854,-20,O,B.Tech,Mechanical,7,5.55,100.7,Kirari Suleman Nagar,Kerala,26-05-2025,FALSE,n
+STU20242288,farhan prakash,KSHARAF@EXAMPLE.ORG,,23,Female,MCA,Mechanical,4,6.67,50.1,Bangalore,Uttar Pradesh,27/04/2022,yes,yes
+STU20206771,xalak kala,oloyal@example.net,(6908357232),-25,female,BCA,Information Technology,7,8.37,93.6,Raebareli,UP,2024-05-08,0,No
+STU20203739,Bhanumati Rege,ranbir00@example.net,,-23,F,M.E,Mechanical,8,8.91,81.7,Bhimavaram,Delhi,2023-01-08,No,y
+STU20214965,aryan kara,pborde@example.org,+915411076095,21,male,M.Tech,Electronics,4,9.18,61.4,Shahjahanpur,Karnataka,2021-10-12,1,yes
+STU20235895,DOMINIC MALLICK,caleb13@example.com,09718924195,20,female,B.Tech,Chemical,4,9.87,54.2,,Telangana,2023-09-08,0,YES
+STU20241857,Gaurangi Rai,ria56@example.net,+91-2459375265,27,O,B.E,Computer Science,6,5.47,80.7%,Pallavaram,Gujarat,05-10-2025,False,YES
+STU20223946,Ranveer Oak,tviswanathan@example.com,+91-+911823076810,17,Female,BCA,Electronics,1,9.48,106.7,Varanasi,Maharashtra,2021-08-08,False,No
+STU20203988,CALEB KHATRI,anushayogi@example.com,1376815118,19,F,B.Tech,Electrical,8,8.09,76.3,Alappuzha,Kerala,2024-09-12,N, Yes 
+STU20202874,FARAS CHOUDHURY,tiwarisamaksh@example.net,2258713971,27,Non-Binary,BCA,Electrical,4,12.15,93.3,,Telangana,19-09-2024,N,n
+STU20206131,Isha Kumar,thakuramol@example.org,+91-7226016459,-20,Man,MCA,Electrical,7,6.38,61.6,Hospet,WB,2023-02-12,0,N
+STU20221612,Liam Dada,  aryan69@example.org  ,+91-05150939834,23,Non-Binary,B.E,Chemical,1,7.97,42.9%,Lucknow,Karnataka,28-07-2021,Yes, Yes 
+STU20234178,Qarin Grewal,  brandhawa@example.net  ,,-22,Non-Binary,BCA,Civil,8,8.85,86.7,Jorhat,Uttar Pradesh,2022-06-14,N, Yes 
+STU20206860,CHATRESH GULATI,chaturakarpe@example.org,(+917427617075),75,MALE,B.E,Chemical,5,8.03,76.9,,RJ,20-01-2025,no,No
+STU20249270,BISHAKHA UPADHYAY,ojasvi77@example.org,+91-08263982146,23,O,M.E,Electronics,8,12.25,85.1,Guna,GJ,19/02/2023,0,yes
+STU20229027,onkar nadkarni,wgolla@example.net,8896792408,23,other,M.Tech,Computer Science,6,13.42,61.3,Cuttack,Gujarat,28-01-2022,True,N
+STU20202070,darika bath,  meghabhakta@example.org  ,+914324451076,-23,FEMALE,B.Tech,Information Technology,1,10.76,88.7,Bikaner,Gujarat,2024-02-05,yes,yes
+STU20205026,Sathvik Narula,dominic24@example.org,+91-06829962914,27,Female,M.E,Civil,8,5.3,56.8,Patna,Tamil Nadu,04/03/2023,no,y
+STU20239864,Laksh Wagle,MITALI54@EXAMPLE.ORG,+910278681447,17,Other,B.Tech,Electronics,5,9.99,104.8,Pudukkottai,TS,2023-04-17,True,YES
+STU20237809,Radhika Viswanathan,,(+917456424008),28,Woman,M.E,Electronics,2,7.83,87.8%,Hapur,Delhi,2023-04-20,FALSE, Yes 
+STU20235374,leela agrawal,wallaryan@example.net,(00583003354),22,FEMALE,BCA,Electrical,1,6.31,61.6,Kota,Delhi,2024-02-15,True, Yes 
+STU20249369,Yashasvi Choudhry,pradhanaashi@example.net,5101749075,21,M,MCA,Electrical,6,9.61,75.8%,Amaravati,Karnataka,2025-09-03,Y, No 
+STU20205105,FRADO LAD,,7215107029,20,other,BCA,Mechanical,3,8.13,76.9,Tenali,Karnataka,30/01/2025,True,Y
+STU20223646,AARNAV RAMAKRISHNAN,,+91-8723430980,25,O,B.Tech,Information Technology,6,7.44,46.7,Howrah,WB,2021-04-15,no,Yes
+STU20205279,Aradhana Vohra,  harish34@example.org  ,02408240084,19,other,B.E,Computer Science,2,7.98,60.7%,Pallavaram,West Bengal,25-09-2021,False,yes
+STU20202753,Avi Ramesh,,02046537556,28,other,M.Tech,Mechanical,5,8.02,103.1,Bidar,Delhi,03/01/2023,FALSE,no
+STU20219446,BAGHYAWATI MISHRA,gopalbawa@example.com,8720506149,19,F,BCA,Mechanical,3,6.96,77.0%,Kollam,Gujarat,08/09/2021,0,No
+STU20206850,Kalpit Sundaram,chanakya01@example.net,+91-00127706324,18,Woman,M.Tech,Electrical,2,,84.1%,Panipat,West Bengal,27/08/2021,1, Yes 
+STU20237178,Krisha Parmar,XGOEL@EXAMPLE.NET,+911753703045,26,FEMALE,M.Tech,Chemical,6,9.81,67.5,Mysore,RJ,2023-06-10,yes, No 
+STU20208478,OSCAR NAYAK,  daraanusha@example.org  ,,17,FEMALE,MCA,Electronics,5,6.84,67.9,Sangli-Miraj & Kupwad,TS,29 December 2020,Yes,yes
+STU20225419,Bhanumati Chada,SAUMYASINHA@EXAMPLE.COM,,18,male,B.Tech,Electronics,7,7.24,73.3%,Malda,Telangana,2021-06-12,True, Yes 
+STU20236992,Ati Dani,GUNBIRRAMESH@EXAMPLE.COM,+91-08523986800,18,female,B.Tech,Mechanical,2,7.27,100.4,Durgapur,GJ,11/09/2023,FALSE,NO
+STU20231317,Watika Mangat,indirakanda@example.net,,28,O,B.Tech,Mechanical,4,8.25,86.9%,Mysore,Maharashtra,2023-05-16,1,y
+STU20234043,shivansh ganesan,GCHAUHAN@EXAMPLE.ORG,08006811492,24,Non-Binary,BCA,Electrical,3,7.77,69.4,Pali,TN,2023-06-30,Yes, No 
+STU20248925,JATIN CHADA,chatreshvig@example.org,08018204339,21,Female,BCA,Mechanical,7,8.68,91.3,Guwahati,Karnataka,2025-05-26,Yes, No 
+STU20228976,Oliver Dalal,  janakidugar@example.net  ,07871255213,74,Other,B.Tech,Information Technology,3,-7.2,53.8,Vijayanagaram,UP,01 December 2020,0,Y
+STU20228849,dalbir krish,shanchandresh@example.com,3457861035,20,Male,BCA,Mechanical,5,5.69,,,Kerala,27/08/2024,Yes,Yes
+STU20213414,Pratyush Sarin,echand@example.com,05512567468,17,Man,M.Tech,Civil,2,12.280000000000001,93.2,Malda,Kerala,11-08-2021,Yes,No
+STU20243539,Prisha Chacko,michael82@example.com,07474689715,24,Female,B.E,Information Technology,6,-7.27,86.6,Nandyal,Uttar Pradesh,2022-07-12,False, Yes 
+STU20215170,JAI PINGLE,banjeet82@example.org,04544702296,24,MALE,B.Tech,Mechanical,7,6.29,,Farrukhabad,Maharashtra,10/04/2023,True,y
+STU20236246,George Palla,TANAYNARULA@EXAMPLE.COM,(04398780157),20,Female,B.E,Civil,1,7.81,,Srikakulam,Tamil Nadu,08/12/2022,True,N
+STU20231483,Hamsini Srinivas,  pbanik@example.org  ,(02785760849),23,Non-Binary,M.E,Electronics,6,6.07,51.2%,Miryalaguda,GJ,02-06-2025,No,Y
+STU20201017,FARIQ SIDHU,patelojasvi@example.com,0948014138,70,F,B.Tech,Electronics,4,7.6,66.7,Salem,Maharashtra,29/10/2022,0,Yes
+STU20226326,FALAK KOTA,  mammenjonathan@example.net  ,,27,O,M.E,Chemical,8,9.45,62.9%,Panchkula,GJ,2025-04-11,N,Yes
+STU20246925,Simon Tata,  jshanker@example.com  ,+913884969653,26,Male,MCA,Computer Science,1,8.31,86.4%,,KA,22-01-2025,1, Yes 
+STU20217270,INDIRA MURTY,KAMYA66@EXAMPLE.NET,09398368457,19,O,MCA,Electronics,2,7.65,40.5,,TN,2020-11-11,N,NO
+STU20247550,Lipika Sampath,janya28@example.net,+91-9316087524,-26,Man,MCA,Computer Science,6,-8.96,50.4,,Kerala,2024-09-27,Yes,NO
+STU20246876,Edhitha Srinivasan,ANUSHA41@EXAMPLE.NET,+91-8665240415,17,Female,B.E,Electronics,2,9.75,89.5,Bardhaman,KA,08/12/2024,TRUE,yes
+STU20233230,Sanya Edwin,kalayashoda@example.com,08902601279,21,Woman,BCA,Electrical,4,7.4,50.7,Hubli–Dharwad,Telangana,2021-05-29,No, No 
+STU20222335,Eshana Puri,maya51@example.net,+919828073741,26,Non-Binary,M.Tech,Mechanical,5,9.84,101.9,Panchkula,Telangana,17/01/2022,1,YES
+STU20238520,Wahab Chaudhry,EKARAJ35@EXAMPLE.COM,,26,Male,MCA,Electronics,5,8.42,90.9%,Kolkata,MH,12/07/2023,TRUE,no
+STU20202998,Krishna Jaggi,,+91-+910600531312,78,Male,M.E,Chemical,8,6.24,,Varanasi,DL,25-05-2024,No,y
+STU20245911,Samuel Garde,finn71@example.com,07741862565,24,MALE,B.E,Mechanical,2,9.9,75.0%,Amroha,MH,29-03-2021,0,No
+STU20237078,XAVIER BALAY,halderanirudh@example.com,06263689702,27,other,MCA,Information Technology,7,7.94,83.6,Kishanganj,Telangana,17-08-2023,TRUE,N
+STU20223086,Faras Sur,shetheshana@example.net,(+917246191965),19,Non-Binary,B.Tech,Electrical,7,9.25,86.2%,Ghaziabad,Kerala,19/08/2021,True, Yes 
+STU20241697,Faraj Borra,TRIPATHIAZAAN@EXAMPLE.NET,(6930848872),20,male,MCA,Information Technology,8,6.36,95.4,Katni,GJ,2022-10-05,1,YES
+STU20246419,Gopal Pradhan,,+91-+916560494519,22,Non-Binary,M.E,Mechanical,5,6.26,47.2%,Bhatpara,DL,18/12/2024,0,yes
+STU20217883,mohammed borde,vlanka@example.net,6158657809,23,O,MCA,Computer Science,7,12.379999999999999,96.6%,Noida,Gujarat,2023-04-22,No,n
+STU20213662,Udyati Sarin,ekantika31@example.com,+91-03799650752,19,F,B.Tech,Electronics,6,8.91,84.7,,Delhi,2023-11-18,0,Yes
+STU20223577,UMANG DOSHI,MAYA21@EXAMPLE.NET,+91-08936392649,21,MALE,BCA,Electrical,2,6.14,70.5,Sultan Pur Majra,Maharashtra,22/06/2025,True,YES
+STU20237609,IDIKA SALVI,,+91-+910385695579,23,FEMALE,M.E,Computer Science,1,7.67,83.8,Berhampore,Maharashtra,13/06/2023,FALSE,y
+STU20206642,hemang ram,,,27,other,M.E,Chemical,6,8.48,64.5%,Motihari,Gujarat,2023-07-14,0,Y
+STU20214519,avni kannan,vamakshi12@example.net,(7153991566),22,male,MCA,Chemical,5,9.6,70.7,Muzaffarpur,Kerala,06-10-2022,True,Y
+STU20223584,CHANCHAL RAMAKRISHNAN,VYOHANNAN@EXAMPLE.NET,+91-9373467065,24,O,MCA,Mechanical,1,8.34,93.3,Dehradun,Karnataka,02-11-2024,1,n
+STU20246990,SHIVANI SEN,ESHANACHAKRABORTY@EXAMPLE.NET,9663658074,26,FEMALE,MCA,Civil,4,7.07,,Dehradun,Rajasthan,2021-01-27,1, No 
+STU20242392,Zashil Savant,XSULE@EXAMPLE.ORG,(07790714163),18,Man,MCA,Electrical,6,5.83,76.8,Satna,KL,15/05/2024,FALSE,NO
+STU20204949,eta thakkar,  michaelbedi@example.net  ,(6799813646),24,Non-Binary,BCA,Computer Science,1,9.93,96.0,Mira-Bhayandar,Tamil Nadu,21/09/2023,False, No 
+STU20236877,rachit kakar,farhanlad@example.net,(+916800610277),21,Woman,BCA,Computer Science,3,8.23,44.9%,Madanapalle,Gujarat,2025-01-01,TRUE,yes
+STU20239882,Chandresh De,  sinhachandresh@example.org  ,00166299795,21,MALE,M.E,Computer Science,2,,76.1%,,MH,19/07/2022,0,yes
+STU20201981,Atharv Nagar,AYUSHMANMAND@EXAMPLE.ORG,08593213348,19,FEMALE,M.E,Civil,8,6.02,76.4,Muzaffarnagar,WB,2025-10-04,no, No 
+STU20221317,zayyan johal,shereavi@example.org,+91-7656360041,-19,Male,BCA,Computer Science,3,9.86,56.9,Khammam,Tamil Nadu,2024-10-23,FALSE,y
+STU20201311,JEEVIKA BARMAN,bkamdar@example.org,+91-3407451713,21,male,M.Tech,Information Technology,7,5.56,57.3%,Giridih,Gujarat,2023-11-05,yes, Yes 
+STU20244033,Hritik Palla,,08998094024,20,Male,MCA,Civil,5,8.62,118.6,Sonipat,Uttar Pradesh,06/11/2023,FALSE,y
+STU20203626,Frado Desai,jacob34@example.org,+91-+915286692966,21,female,BCA,Electronics,7,5.46,94.6%,Morbi,Rajasthan,2025-06-07,False,yes
+STU20222335,Eshana Puri,maya51@example.net,+919828073741,26,Non-Binary,M.Tech,Mechanical,5,9.84,101.9,Panchkula,Telangana,17/01/2022,1,YES
+STU20203155,MITALI TALWAR,GANDHIRAKSHA@EXAMPLE.NET,08669432029,20,Man,BCA,Chemical,5,5.06,69.9,Guntakal,RJ,2020-12-08,TRUE,No
+STU20215040,Pallavi Kakar,  devikarastogi@example.net  ,5787133150,28,Non-Binary,BCA,Mechanical,7,9.49,64.0,Giridih,DL,2022-09-26,Yes,no
+STU20208406,Gagan Buch,sgola@example.org,+912412723804,21,Man,M.Tech,Information Technology,3,7.45,105.8,Hosur,Karnataka,26/12/2021,Yes,N
+STU20213270,Nidra Atwal,  abhimanyusandal@example.net  ,(5389097283),-26,other,MCA,Chemical,4,9.31,58.5,Aurangabad,Uttar Pradesh,26/12/2023,1,No
+STU20219042,Charles Dugal,  chandranbumb@example.com  ,06797643815,18,Male,BCA,Mechanical,8,7.39,60.4,Bhubaneswar,MH,10 April 2023,FALSE,n
+STU20248869,Jonathan Tiwari,mallzayyan@example.org,4440192927,20,Male,B.Tech,Electronics,3,8.19,98.6,Akola,Rajasthan,31-01-2023,yes,no
+STU20233705,DIYA LAL,diptakhare@example.com,,21,Other,BCA,Civil,4,9.64,105.3,Siwan,DL,04-09-2022,False,No
+STU20227523,Bishakha Lal,maya55@example.com,03132912127,28,Non-Binary,M.E,Information Technology,7,13.85,89.4,Satara,KA,26/04/2024,yes,N
+STU20205649,RAKSHA BUCH,SANKARANEKANTIKA@EXAMPLE.NET,00139904902,25,other,MCA,Information Technology,6,5.47,97.1,Kadapa,Delhi,15/08/2024,FALSE,y
+STU20222252,Jalsa Rana,gagan22@example.org,,28,Male,B.Tech,Chemical,1,9.06,74.7%,Chandigarh,KL,03/06/2023,TRUE,Yes
+STU20249709,guneet purohit,kritikacheema@example.org,+91-+918497185948,68,Man,M.Tech,Information Technology,8,,,Narasaraopet,Maharashtra,14-09-2021,yes, No 
+STU20231108,WILLIAM OAK,nathzinal@example.org,+91-+919971791100,25,male,M.E,Mechanical,6,7.46,99.1,Satara,Kerala,01/06/2021,0,n
+STU20221256,Krish Shetty,ranganathanjanuja@example.net,+913928272299,20,other,M.Tech,Chemical,7,9.64,78.0,Karawal Nagar,Kerala,30/11/2023,yes,n
+STU20207625,Shaurya Bhardwaj,WADHWAGAGAN@EXAMPLE.COM,,24,O,MCA,Information Technology,4,5.47,46.1,Srikakulam,TN,2025-08-25,yes,Yes
+STU20228201,Pooja Badami,gavinbehl@example.com,08433567086,23,Woman,B.E,Civil,3,7.11,76.8,Avadi,Maharashtra,18/10/2021,1,NO
+STU20215523,EESHA SUBRAMANIAM,  nayakandrew@example.net  ,,26,MALE,M.E,Chemical,4,,62.5,Tirupati,Rajasthan,2022-11-15,Y, No 
+STU20231820,JALSA SAINI,chanakya44@example.net,+91-1832192855,18,male,B.Tech,Chemical,5,,,Gopalpur,TS,2023-12-12,Yes,Yes
+STU20238037,lakshmi hayre,masonsolanki@example.org,+916728857448,-23,M,MCA,Electronics,4,6.39,82.2%,Sikar,Karnataka,2021-09-14,Y,YES
+STU20247841,ekani raj,,+91-4085887704,21,Male,M.Tech,Mechanical,4,6.9,90.0,Pondicherry,Rajasthan,26/03/2025,0,n
+STU20209591,Qarin Kant,  rishi12@example.net  ,0878141413,19,Male,M.Tech,Information Technology,5,9.08,56.0,Bathinda,Telangana,2023-11-25,yes,n
+STU20222770,LAKSHMI SARAN,OSCARSOMAN@EXAMPLE.ORG,+918656242201,28,Man,B.Tech,Civil,8,8.66,98.1,Asansol,Telangana,01/01/2025,no,N
+STU20203446,hitesh borah,bdugar@example.org,+91-02131096227,21,male,B.E,Civil,3,7.85,63.4%,Dehri,KL,30/05/2023,yes,N
+STU20243139,Upadhriti Maharaj,ekapadwali@example.org,04485708620,26,F,B.E,Electrical,1,-5.23,97.6,Udupi,Rajasthan,22 November 2022,1,Y
+STU20231917,Imaran Bhasin,JALSA24@EXAMPLE.COM,+918633302126,25,FEMALE,BCA,Electrical,6,7.78,41.1%,Khandwa,KL,2024-01-09,False,no
+STU20211984,aadhya lad,zgade@example.com,(+914628314359),21,Male,MCA,Information Technology,5,5.27,79.3%,Gurgaon,MH,2022-03-02,TRUE,n
+STU20247782,BENJAMIN CHATTERJEE,RACHANA94@EXAMPLE.COM,04149673938,-26,Man,BCA,Computer Science,7,9.09,65.1%,Bokaro,Uttar Pradesh,12/07/2023,no,yes
+STU20218488,krishna pandit,  ekani00@example.net  ,+912559056165,20,O,B.E,Computer Science,7,5.23,78.0,Bulandshahr,KL,2023-11-07,1,NO
+STU20217819,Ayushman Nagar,  tsabharwal@example.com  ,+91-4231220994,28,Female,B.E,Chemical,2,7.86,,Kavali,Maharashtra,02/11/2022,True, Yes 
+STU20248758,Sai Kadakia,HEMANI22@EXAMPLE.NET,+91-5158799684,-20,male,B.E,Chemical,3,,94.9,Ahmedabad,UP,23 April 2025,0,NO
+STU20241496,GAGAN MAMMEN,adevan@example.org,8380657875,24,O,BCA,Mechanical,5,7.41,88.3%,Munger,TS,01/03/2023,FALSE,N
+STU20219486,Bhavna Sarma,BDARA@EXAMPLE.NET,3248086131,74,MALE,BCA,Electronics,2,7.28,88.1,Kochi,Uttar Pradesh,2022-03-04,no,N
+STU20246435,Theodore Sura,DEVLALLA@EXAMPLE.COM,,23,Non-Binary,M.Tech,Chemical,2,7.5,98.5,Saharsa,MH,2023-03-10,yes,No
+STU20239536,keya dara,jainwriddhish@example.net,3788614057,21,other,BCA,Computer Science,3,,66.3,Amritsar,Delhi,2024-12-24,N,YES
+STU20216375,BARKHA COMAR,tankrushil@example.net,+914835642087,25,Woman,B.Tech,Electrical,4,8.58,69.3%,Ongole,Uttar Pradesh,2023-09-04,no,y
+STU20236431,jasmit warrior,,(+912806346157),28,MALE,B.Tech,Electrical,8,9.6,93.8,Bahraich,Maharashtra,22/06/2022,False,n
+STU20224366,BALJIWAN RAJ,bhallagaurika@example.com,(06139060480),25,O,BCA,Electronics,7,6.48,,Panvel,Delhi,01/09/2025,False, No 
+STU20201996,YUVRAJ AHUJA,LEELA37@EXAMPLE.COM,04990453017,24,FEMALE,M.E,Electrical,2,7.45,94.6,Kozhikode,Karnataka,23/04/2024,True, No 
+STU20223749,Gautam Rana,,04965137098,26,Other,MCA,Electrical,2,8.89,,Phagwara,GJ,29-09-2022,Yes,yes
+STU20241642,NEELIMA MODI,HEMANGINI04@EXAMPLE.NET,2673899756,26,M,B.Tech,Electronics,5,9.61,,Barasat,TS,2021-07-30,1,no
+STU20201488,Thomas Sen,abeer26@example.com,02351161559,18,male,M.Tech,Information Technology,1,7.81,83.0,Varanasi,Uttar Pradesh,2024-10-08,0,YES
+STU20205979,Ojas Buch,,+91-+915093771004,68,MALE,BCA,Computer Science,2,8.63,,Ballia,Delhi,21 March 2021,True,Yes
+STU20249666,YUVRAJ CHACKO,  luke90@example.org  ,+918513279724,-18,Female,MCA,Electrical,5,,90.9,,GJ,2022-03-06,No,y
+STU20233091,onkar gill,,+91-2374740748,26,Non-Binary,B.Tech,Civil,1,5.42,,Srinagar,Rajasthan,14-08-2024,1,YES
+STU20221324,Radha Bhattacharyya,  dhawankalpit@example.org  ,,23,M,B.E,Chemical,4,7.88,79.0,Jorhat,Uttar Pradesh,2023-05-13,1,NO
+STU20236568,ZEHAAN BABU,ekansh53@example.net,1952058527,25,female,B.Tech,Mechanical,5,9.19,74.8,South Dumdum,RJ,2022-01-03,TRUE,NO
+STU20216269,mitesh naidu,mitravritti@example.net,(5158328182),21,Woman,M.E,Information Technology,6,6.54,61.6,Tinsukia,Rajasthan,06 June 2025,False,yes
+STU20217528,Jyoti Solanki,,7444313518,22,female,B.Tech,Chemical,5,,,Nellore,Uttar Pradesh,14-09-2022,False,YES
+STU20247121,vaishnavi dutt,  samaksh87@example.com  ,,20,Female,BCA,Civil,7,6.25,82.9,Jaunpur,Telangana,18/10/2024,False,yes
+STU20206077,VIVAAN IYENGAR,nachiket11@example.net,+91-+913924051477,18,Other,M.Tech,Chemical,3,7.68,83.4,Bathinda,Karnataka,22/08/2022,0,N
+STU20243900,Eshana Bajaj,dewanmitesh@example.com,9996636186,26,Non-Binary,M.E,Electrical,7,7.62,78.4,Fatehpur,GJ,14/10/2021,No, No 
+STU20205856,Samuel Kale,ranbir62@example.com,(+910443973597),27,M,B.E,Information Technology,2,,50.0%,Hyderabad,Uttar Pradesh,06/11/2024,1, Yes 
+STU20241803,CHAMELI SETTY,bhasinnakul@example.com,07735925556,26,Non-Binary,M.E,Chemical,5,8.88,53.8,Uluberia,West Bengal,29 March 2025,True,Y
+STU20226615,jackson deep,SRINIVASANIJAYA@EXAMPLE.COM,5279852401,19,MALE,M.E,Civil,8,6.36,63.1,Warangal,Rajasthan,27 January 2022,False,y
+STU20244308,JANUJA NATT,isaac10@example.net,2555989534,24,M,B.E,Mechanical,3,8.59,67.4,Bhimavaram,Karnataka,17 February 2024,False, No 
+STU20211333,ojasvi gill,kevinzacharia@example.com,8424745171,26,M,M.Tech,Electronics,8,8.35,73.8,Kamarhati,DL,2024-03-29,no, No 
+STU20247203,RAKSHA VIRK,,(09121535396),-23,MALE,B.Tech,Civil,8,9.01,66.9%,Muzaffarpur,Rajasthan,2024-06-22,0,NO
+STU20211948,SAMAR VIRK,  vasudha92@example.net  ,0698042043,20,male,M.E,Computer Science,8,8.06,43.3%,Meerut,Tamil Nadu,25-10-2024,1,YES
+STU20231878,YUG MANDER,IDATE@EXAMPLE.NET,(+910055778487),22,male,M.E,Electronics,4,,97.8%,Panvel,Uttar Pradesh,15/05/2022,N,no
+STU20204946,Yadavi Wali,daksheshtrivedi@example.org,(+911913619399),26,Man,B.Tech,Electrical,8,9.08,98.7,Udupi,UP,23/07/2021,True,y
+STU20221449,pranit tata,  mitraijaya@example.com  ,,23,Male,M.Tech,Chemical,4,9.29,78.8,Madhyamgram,Delhi,19/08/2022,False,n
+STU20243344,nimrat borah,  edhithaborah@example.com  ,08528922680,-20,FEMALE,MCA,Mechanical,8,6.28,40.6,Kadapa,Rajasthan,01 March 2022,0, Yes 
+STU20214062,Urvi Om,YASHASVI21@EXAMPLE.COM,06532863266,19,Woman,BCA,Electrical,2,8.31,84.9,Berhampore,WB,02-04-2025,True,No
+STU20236038,PAHAL MENON,VARUGHESELUCKY@EXAMPLE.COM,+91-7181298266,18,MALE,BCA,Electronics,7,7.46,43.6,Hospet,Tamil Nadu,27/01/2021,False,y
+STU20216781,damyanti menon,PETERAGARWAL@EXAMPLE.NET,6902959391,17,Man,B.E,Civil,8,6.43,40.5,Ajmer,Karnataka,2023-09-05,False,y
+STU20201067,Damini Garg,UTKARSH75@EXAMPLE.COM,+912547292842,27,O,M.Tech,Electronics,6,-6.56,46.2,Jamnagar,Uttar Pradesh,27/03/2022,0,YES
+STU20231917,Imaran Bhasin,JALSA24@EXAMPLE.COM,+918633302126,25,FEMALE,BCA,Electrical,6,7.78,41.1%,Khandwa,KL,2024-01-09,False,no
+STU20213267,Eshana Hegde,qcomar@example.net,(08596969155),21,MALE,MCA,Civil,6,7.77,46.2,Tadipatri,Uttar Pradesh,01-05-2022,True,no
+STU20202425,Lavanya Rama,  darpan44@example.org  ,+91-01739627128,23,Other,M.E,Information Technology,6,9.28,71.2,Bellary,MH,07/10/2021,0,Yes
+STU20246901,Radha Pillay,  varenyachander@example.com  ,+917223972404,17,male,B.E,Mechanical,6,9.49,109.2,Belgaum,Telangana,19/03/2024,TRUE,n
+STU20225536,Anamika Jain,,02177625349,21,Non-Binary,MCA,Electrical,5,-5.94,71.0,Pudukkottai,Delhi,22/04/2022,Yes,N
+STU20224683,abhiram swamy,AMISTRY@EXAMPLE.COM,,25,Woman,M.Tech,Chemical,8,7.83,,Ujjain,Rajasthan,05-03-2024,Yes,Yes
+STU20227149,ucchal mittal,idada@example.org,,23,O,M.Tech,Computer Science,4,5.51,,Dharmavaram,KL,2022-03-06,1,Yes
+STU20219529,dipta butala,dugarzaid@example.net,+91-2965772429,18,Non-Binary,M.Tech,Civil,7,5.46,53.3,Ichalkaranji,Delhi,21/07/2022,No, No 
+STU20227211,CHANDANI SAMRA,tanmayi43@example.com,01369594406,22,Male,M.E,Mechanical,6,8.81,82.7,Bangalore,Telangana,04 September 2025,no,YES
+STU20213419,Bakhshi Chad,toorchanchal@example.com,+91-2603408487,-21,M,B.E,Electrical,2,6.53,68.3,Gangtok,West Bengal,2025-01-12,True,yes
+STU20219498,radhika jaggi,aarnanagarajan@example.net,+911686854870,20,Other,B.E,Electrical,8,7.63,78.8,Gorakhpur,Tamil Nadu,21/05/2024,FALSE,NO
+STU20206965,Ranveer Agrawal,tellakavya@example.com,(06656749160),26,M,B.E,Electrical,2,8.29,72.3,Kharagpur,TS,03 September 2025,True, No 
+STU20242341,Sachi Rai,KRISHNANURVI@EXAMPLE.NET,+913046184992,25,Female,BCA,Electrical,6,5.39,73.9,Vasai-Virar,Maharashtra,19-03-2025,True,y
+STU20211685,Idika Walia,  eprabhakar@example.net  ,(5067165726),21,Female,B.Tech,Mechanical,4,8.41,80.0,Nagaon,WB,28-02-2023,0, Yes 
+STU20207776,ANUSHA CHANDRA,leenasule@example.net,(6492151826),23,female,B.E,Electronics,6,6.72,79.3%,Singrauli,Gujarat,04/08/2025,True,No
+STU20236026,Oliver Bhattacharyya,MISRABINA@EXAMPLE.COM,(8985625753),69,female,MCA,Information Technology,5,8.45,78.3%,Sambhal,Gujarat,09/01/2021,N,Yes
+STU20214261,naveen borde,NIGAMVASUDHA@EXAMPLE.NET,+916296201533,-26,O,M.E,Information Technology,1,5.23,48.2,Begusarai,West Bengal,2025-06-16,no,no
+STU20209098,JANAKI VARGHESE,,+91-0847007661,22,male,M.E,Electronics,6,8.99,60.4%,Raiganj,Kerala,2021-06-27,No,Yes
+STU20249947,Gautam Saraf,chaudhrysachi@example.org,(4005045562),26,Man,M.E,Electronics,5,7.18,41.7%,Bettiah,West Bengal,14/05/2024,FALSE, Yes 
+STU20219283,Jack Rajan,tanmayi94@example.net,03864631752,24,Woman,M.Tech,Computer Science,8,6.6,59.9%,Pallavaram,Gujarat,03-10-2021,yes,Y
+STU20227985,HEMAL PAU,wishisamra@example.org,05564729293,24,Male,M.E,Electrical,3,,79.4,Gopalpur,TS,13/11/2022,True,Y
+STU20218230,Dev Yohannan,hgupta@example.net,,24,Male,M.E,Electronics,3,9.41,58.1%,Varanasi,Gujarat,2021-12-19,1,no
+STU20238886,Januja Sankar,narayanandipta@example.net,(+914846564823),20,female,B.Tech,Electronics,7,5.01,63.4,,Rajasthan,05-05-2022,No,NO
+STU20208478,OSCAR NAYAK,  daraanusha@example.org  ,,17,FEMALE,MCA,Electronics,5,6.84,67.9,Sangli-Miraj & Kupwad,TS,29 December 2020,Yes,yes
+STU20205993,Praneel Sura,qmistry@example.org,(+918656756618),25,MALE,B.E,Information Technology,3,6.63,81.9,Ichalkaranji,Tamil Nadu,2022-07-10,yes,N
+STU20216531,Lavanya Sandhu,iryakala@example.org,04720999347,26,Man,B.Tech,Computer Science,1,9.74,86.3%,Jamalpur,Gujarat,08 December 2024,TRUE, No 
+STU20235455,WIDISHA TARA,  takwazir@example.org  ,+91-7767199038,20,Male,M.Tech,Electronics,2,5.78,49.9,Udupi,RJ,2025-08-09,no,n
+STU20244057,Yuvraj Mitter,saumya34@example.com,+915662776896,25,FEMALE,B.E,Electrical,8,6.38,89.9%,Ongole,Uttar Pradesh,11/01/2021,Yes, Yes 
+STU20233161,AARNAV ARYA,choudhrywakeeta@example.org,+918114374470,25,Female,M.E,Information Technology,1,7.79,80.4%,Akola,GJ,13-03-2021,True,NO
+STU20236985,Udarsh Sur,harini50@example.net,02891077119,26,Other,B.Tech,Information Technology,5,6.88,94.4%,Kishanganj,UP,21-03-2021,N, No 
+STU20246213,liam acharya,MANTHANSETHI@EXAMPLE.NET,06997335494,-26,MALE,MCA,Information Technology,2,-9.68,68.4,Hapur,KA,2021-08-15,True,No
+STU20233863,Priya Chaudhuri,atharv78@example.com,3110919392,24,M,MCA,Information Technology,8,6.58,,Raichur,DL,2024-06-11,False,YES
+STU20218895,ISHA RAGHAVAN,GKALA@EXAMPLE.ORG,01517182754,-22,O,MCA,Electrical,7,5.74,89.6%,Gwalior,Kerala,2023-08-27,yes,yes
+STU20213480,Bhavani Babu,chasmumahuja@example.com,+913504888992,23,Non-Binary,MCA,Civil,4,5.43,46.0,,Karnataka,11-10-2024,False,n
+STU20235327,Yutika Swaminathan,zsarin@example.net,+918306719855,23,Non-Binary,M.E,Information Technology,8,5.19,56.5%,Rewa,TN,2021-05-01,N,y
+STU20202229,Dayita Sarkar,DALBIRKONDA@EXAMPLE.ORG,01799042102,27,Non-Binary,M.E,Mechanical,3,9.76,48.6,Ujjain,Kerala,2025-01-31,0,y
+STU20223953,Ojas Basu,ynarula@example.com,+910143888993,20,Female,M.E,Electronics,4,10.0,49.3%,Dindigul,Gujarat,10 March 2024,TRUE,Y
+STU20228273,Christopher Tata,jhalakdugar@example.com,+91-+919138000307,18,Non-Binary,M.Tech,Information Technology,6,6.99,79.0,Yamunanagar,DL,20/02/2022,True,yes
+STU20224327,Warinder Sampath,  maanaschhabra@example.org  ,+914764907851,26,F,M.Tech,Electrical,6,8.78,72.8%,Bongaigaon,Kerala,19-06-2024,True,YES
+STU20247686,Krisha Murthy,triptiwalia@example.com,5497334843,21,Man,MCA,Mechanical,4,7.22,97.0%,Tumkur,West Bengal,2022-08-16,TRUE,N
+STU20221182,Girindra Narasimhan,MANEJAIRAJ@EXAMPLE.COM,09152017774,25,other,M.Tech,Computer Science,1,5.03,,Ozhukarai,Uttar Pradesh,27-03-2021,1,no
+STU20219702,jairaj iyer,warjastak@example.org,,23,O,MCA,Chemical,3,5.85,44.7,Nangloi Jat,Telangana,2025-05-02,Yes,n
+STU20207251,bhanumati dhingra,,1497374605,18,M,B.E,Mechanical,7,7.08,92.1,Bhagalpur,Delhi,11 October 2022,TRUE,no
+STU20224087,Xalak Dhillon,JNAGARAJAN@EXAMPLE.ORG,8854749297,19,FEMALE,B.Tech,Electronics,4,,47.9,,Maharashtra,2024-12-08,True,Yes
+STU20237179,Timothy Sarin,jagvi25@example.com,(07547812914),25,FEMALE,B.Tech,Electrical,1,8.51,45.0%,Siwan,Telangana,2022-07-14,False,yes
+STU20219952,Indira Yohannan,HARDIKBASU@EXAMPLE.ORG,(+913243298395),-25,female,BCA,Civil,3,8.48,80.1,Warangal,Telangana,14 June 2024,True, No 
+STU20226752,XALAK SARAF,GIRISH80@EXAMPLE.ORG,+919740148902,28,Other,M.Tech,Electronics,2,5.73,,Pune,KL,16-08-2022,TRUE,YES
+STU20209098,JANAKI VARGHESE,,+91-0847007661,22,male,M.E,Electronics,6,8.99,60.4%,Raiganj,Kerala,2021-06-27,No,Yes
+STU20232604,Pranav Lanka,chopraradha@example.com,+91-5698169340,17,Non-Binary,BCA,Chemical,1,9.84,95.6,Mumbai,Delhi,14/04/2025,TRUE,No
+STU20213188,Udarsh Deep,  anthonythaman@example.org  ,,24,Man,M.E,Electrical,6,7.08,73.0,Nashik,Rajasthan,2021-11-05,Y,yes
+STU20249847,Yamini Gera,  kotaraksha@example.com  ,8925546659,24,F,B.Tech,Information Technology,1,,84.1,,Kerala,03-06-2021,False,yes
+STU20243430,jacob merchant,timothy32@example.com,(+917956878339),18,MALE,B.E,Information Technology,6,6.9,75.8%,Hajipur,GJ,29-08-2024,False,no
+STU20241752,Atharv Parmer,soodkrish@example.net,+91-7526772233,73,Male,M.E,Chemical,5,8.87,58.6%,Alappuzha,KA,27-12-2020,N,Yes
+STU20228414,Vritti Thaman,  hemal88@example.org  ,,18,MALE,MCA,Electronics,1,6.71,89.8,Proddatur,GJ,2023-06-10,False,y
+STU20206410,Anjali Dube,lparmar@example.org,(0837081647),18,Male,B.Tech,Mechanical,7,5.36,68.2,Khora ,Delhi,25/11/2020,N,N
+STU20223417,ABDUL DUGAR,,,26,M,B.E,Chemical,3,9.94,92.4,Belgaum,TN,03-03-2021,Yes,yes
